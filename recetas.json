@@ -1,0 +1,2185 @@
+{
+    "page": 1,
+    "totalPages": null,
+    "itemsPerPage": 51,
+    "totalItems": 51,
+    "data": [
+        {
+            "_id": "65a40649891d7ea109e4dc15",
+            "name": "ensalada piamontesa",
+            "description": "la ensalada piamontesa es una deliciosa combinación de ingredientes frescos y sabrosos, inspirada en la región de piamonte en italia.",
+            "ingredients": [
+                "Lechuga",
+                "Tomates cherry",
+                "Queso mozzarella",
+                "Jamón",
+                "Aceitunas negras",
+                "Aceite de oliva virgen extra",
+                "Vinagre balsámico",
+                "Sal y pimienta al gusto"
+            ],
+            "steps": [
+                "Lava y corta la lechuga en trozos pequeños.",
+                "Corta los tomates cherry por la mitad y el queso mozzarella en cubos.",
+                "Añade el jamón cortado en tiras y las aceitunas negras.",
+                "En un tazón aparte, mezcla el aceite de oliva, el vinagre balsámico, la sal y la pimienta para hacer el aderezo.",
+                "Vierte el aderezo sobre la ensalada y mezcla bien.",
+                "Sirve la ensalada piamontesa en un plato y disfruta."
+            ],
+            "category": {
+                "_id": "64e3dad8f87837090882b60f",
+                "name": "ensaladas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701033857/categories/pg9m40sd6ibhshb7wjvf.webp",
+                "slug": "ensaladas"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 15,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1705248328/recipes/jxeewp2ouohuchyhzmfl.jpg",
+            "slug": "ensalada-piamontesa",
+            "createdAt": "2024-01-14T16:05:29.412Z",
+            "updatedAt": "2024-01-14T18:06:36.291Z"
+        },
+        {
+            "_id": "65713bf3288efc26bcfd1aa7",
+            "name": "castagnole",
+            "description": "las castagnole son pequeñas bolitas de masa fritas, espolvoreadas con azúcar glas. son dulces, esponjosas por dentro y crujientes por fuera, perfectas para disfrutar en cualquier ocasión festiva o como un capricho dulce.",
+            "ingredients": [
+                "250g de harina de trigo",
+                "50g de azúcar",
+                "2 huevos",
+                "50g de mantequilla derretida",
+                "1 cucharadita de levadura en polvo",
+                "Ralladura de 1 limón",
+                "Una pizca de sal",
+                "Aceite para freír",
+                "Azúcar glas (para espolvorear)"
+            ],
+            "steps": [
+                "En un tazón grande, mezcla la harina con la levadura en polvo.",
+                "En otro recipiente, bate los huevos con el azúcar hasta obtener una mezcla espumosa.",
+                "Agrega la ralladura de limón y la mantequilla derretida a la mezcla de huevos y azúcar. Mezcla bien.",
+                "Incorpora poco a poco la mezcla de harina y levadura a la mezcla de huevos y azúcar, mezclando hasta obtener una masa suave y homogénea. Deja reposar la masa durante unos 30 minutos.",
+                "Calienta suficiente aceite en una sartén profunda o en una olla para freír a fuego medio.",
+                "Con las manos ligeramente mojadas en agua, forma bolitas pequeñas (del tamaño de una nuez) con la masa y colócalas en un plato.",
+                "Cuando el aceite esté caliente, fríe las bolitas de masa en lotes, volteándolas ocasionalmente, hasta que estén doradas y crujientes. Esto tomará aproximadamente 3-4 minutos.",
+                "Usa una espumadera para sacar las Castagnole del aceite y colócalas sobre papel absorbente para eliminar el exceso de aceite.",
+                "Una vez que las bolitas estén ligeramente enfriadas, espolvorea generosamente con azúcar glas."
+            ],
+            "category": {
+                "_id": "64e3d150f87837090882b5f1",
+                "name": "comida rapida",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031859/categories/fzysfmbe9wqkewwmv5mq.jpg",
+                "slug": "comida-rapida"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 45,
+            "portions": 20,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701919730/recipes/to0uxbesucaggvvjkn4r.jpg",
+            "createdAt": "2023-12-07T03:28:51.222Z",
+            "updatedAt": "2024-01-14T18:06:11.005Z",
+            "slug": "castagnole"
+        },
+        {
+            "_id": "657124fb288efc26bcfd19e4",
+            "name": "pollo alla cacciatora",
+            "description": "el pollo alla cacciatora, un plato emblemático de la cocina italiana, es un festín de sabores que resalta la esencia de la comida casera y reconfortante. su nombre, que en italiano significa \"pollo del cazador\", sugiere una conexión directa con las raíces rústicas de la cocina tradicional.",
+            "ingredients": [
+                "1 pollo entero cortado en piezas o muslos y pechugas",
+                "2 cucharadas de aceite de oliva",
+                "1 cebolla grande, picada",
+                "2 dientes de ajo, picados",
+                "1 lata (400g) de tomates triturados",
+                "1 taza de caldo de pollo",
+                "1 taza de vino tinto seco",
+                "1 ramita de romero fresco",
+                "2 hojas de laurel",
+                "Sal y pimienta al gusto",
+                "1/4 de taza de aceitunas negras, sin hueso y rebanadas (opcional)",
+                "Perejil fresco picado para decorar"
+            ],
+            "steps": [
+                "En una olla grande o cazuela, calienta el aceite de oliva a fuego medio-alto.",
+                "Añade el pollo y dóralo por todos lados. Retira el pollo y reserva.",
+                "En la misma olla, añade la cebolla y el ajo, y sofríe hasta que estén dorados.",
+                "Agrega los tomates triturados, el caldo de pollo, el vino tinto, el romero, las hojas de laurel, la sal y la pimienta. Mezcla bien.",
+                "Vuelve a poner el pollo en la olla, asegurándote de que esté sumergido en la mezcla de tomate.",
+                "Reduce el fuego a medio-bajo, tapa la olla y cocina durante aproximadamente 45-60 minutos o hasta que el pollo esté tierno.",
+                "Si estás usando aceitunas, agrégalas en los últimos 15 minutos de cocción.",
+                "Sirve caliente, espolvoreado con perejil fresco picado."
+            ],
+            "category": {
+                "_id": "64e3dca1f87837090882b617",
+                "name": "pollo",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031752/categories/kiaxjkikpkn9d82eohjd.jpg",
+                "slug": "pollo"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 60,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701913850/recipes/acy9o2nqidkqn1jcj2cb.webp",
+            "createdAt": "2023-12-07T01:50:51.036Z",
+            "updatedAt": "2024-01-14T18:05:46.614Z",
+            "slug": "pollo-alla-cacciatora"
+        },
+        {
+            "_id": "65711d592ffe4aad74c12349",
+            "name": "ensalada caprese",
+            "description": "la ensalada caprese es un plato tradicional italiano que resalta los sabores simples y frescos de la cocina mediterránea. con ingredientes básicos como tomate, mozzarella y albahaca, esta ensalada destaca por su sencillez y exquisitez.",
+            "ingredients": [
+                "3-4 tomates maduros, cortados en rodajas",
+                "250g de mozzarella fresca, cortada en rodajas",
+                "Hojas frescas de albahaca",
+                "Aceite de oliva virgen extra",
+                "Vinagre balsámico (opcional)",
+                "Sal y pimienta al gusto"
+            ],
+            "steps": [
+                "Lava y corta los tomates en rodajas de grosor medio. Haz lo mismo con la mozzarella fresca.",
+                "En un plato o bandeja para servir, alterna las rodajas de tomate y mozzarella, creando un patrón decorativo.",
+                "Entre cada capa de tomate y mozzarella, coloca una hoja de albahaca fresca. La albahaca le dará un aroma y sabor característico a la ensalada.",
+                "Rocía la ensalada con aceite de oliva virgen extra, asegurándote de cubrir generosamente las rodajas de tomate y mozzarella.",
+                "Si lo prefieres, puedes agregar un toque de vinagre balsámico por encima para realzar los sabores.",
+                "Finaliza con una pizca de sal y pimienta al gusto."
+            ],
+            "category": {
+                "_id": "64e3dad8f87837090882b60f",
+                "name": "ensaladas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701033857/categories/pg9m40sd6ibhshb7wjvf.webp",
+                "slug": "ensaladas"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 15,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701911896/recipes/zeb3ynpuezxsyb9l4loz.jpg",
+            "createdAt": "2023-12-07T01:18:17.304Z",
+            "updatedAt": "2024-01-14T18:05:21.581Z",
+            "slug": "ensalada-caprese"
+        },
+        {
+            "_id": "6570e7b9521843d4c14bef64",
+            "name": "arancine sicilianas",
+            "description": "las arancine, o arancini en singular, son bolas de arroz rellenas y fritas, un clásico de la cocina siciliana. estas delicias son perfectas como aperitivo o incluso como plato principal, con una cáscara crujiente y un relleno sabroso que puede variar desde ragú hasta queso y guisantes.",
+            "ingredients": [
+                "2 tazas de arroz Arborio o Carnaroli",
+                "4 tazas de caldo de pollo o vegetal",
+                "1 cebolla pequeña, finamente picada",
+                "1/2 taza de vino blanco seco",
+                "/2 taza de queso parmesano rallado",
+                "Sal al gusto",
+                "2 huevos batidos",
+                "Pan rallado",
+                "Aceite para freír",
+                "Para el relleno , Mozzarella fresca en cubos pequeños,Guisantes cocidos,Jamón cocido en cubitos,Ragú de carne. (opcional, puedes elegir uno o varios)"
+            ],
+            "steps": [
+                "En una sartén grande, saltea la cebolla hasta que esté translúcida. Agrega el arroz y cocina por unos minutos.",
+                "Vierte el vino blanco y cocina hasta que se evapore. Luego, agrega el caldo de pollo poco a poco, revolviendo ocasionalmente, hasta que el arroz esté cocido y haya absorbido el líquido.",
+                "Retira del fuego y mezcla el queso parmesano. Deja enfriar completamente.",
+                "Si optas por un ragú de carne, prepara el sofrito con cebolla, zanahoria y tomate, luego agrega la carne molida y cocina con vino tinto hasta que esté tierna y sazonada. Deja enfriar, Para otras opciones de relleno como queso, guisantes o jamón, simplemente asegúrate de tenerlos listos y en trozos pequeños.",
+                "Toma una porción de arroz en la palma de la mano, haz un hueco en el centro y coloca una cucharadita del relleno elegido.",
+                "Cubre el relleno con más arroz y forma una bola. Repite hasta terminar todo el arroz y relleno.",
+                "Pasa cada bola por huevo batido y luego por el pan rallado, asegurándote de que estén bien cubiertas.",
+                "Calienta el aceite en una sartén profunda a fuego medio-alto. Fríe las Arancine en lotes hasta que estén doradas y crujientes. Retira y coloca sobre papel absorbente para eliminar el exceso de aceite."
+            ],
+            "category": {
+                "_id": "6529f9d8311a4af3d8762f3f",
+                "name": "arroz",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697249752/categories/a2k9ht25kl8v5aqf4qyc.jpg",
+                "slug": "arroz"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 60,
+            "portions": 10,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701898168/recipes/ly9rqw0tflvgp0q4w2lm.webp",
+            "createdAt": "2023-12-06T21:29:29.147Z",
+            "updatedAt": "2024-01-14T18:04:57.208Z",
+            "slug": "arancine-sicilianas"
+        },
+        {
+            "_id": "6570dca6e201f5ad264e909a",
+            "name": "moro de guandules",
+            "description": "el moro de guandules es un plato emblemático y entrañable de la república dominicana, arraigado en su rica herencia culinaria y amado por su sabor reconfortante. esta receta combina el arroz con los guandules, también conocidos como pigeon peas, en una fusión armoniosa que es un componente esencial en muchas comidas dominicanas.",
+            "ingredients": [
+                "2 tazas de arroz",
+                "2 tazas de guandules (pueden ser frescos, congelados o enlatados)",
+                "4 tazas de agua o caldo de pollo",
+                "1 cebolla roja picada",
+                "2 dientes de ajo picados",
+                "1 pimiento verde picado",
+                "1 zanahoria cortada en cubitos pequeños (opcional)",
+                "1/4 taza de aceite vegetal",
+                "1 cucharadita de orégano",
+                "1 cucharadita de comino",
+                "Sal al gusto",
+                "Cilantro fresco picado para adornar (opcional)"
+            ],
+            "steps": [
+                "En una olla grande, calienta el aceite a fuego medio y sofríe la cebolla, el ajo y el pimiento verde hasta que estén suaves y fragantes.",
+                "Agrega los guandules a la olla y cocínalos por unos minutos con las verduras, revolviendo ocasionalmente.",
+                "Añade el arroz a la mezcla y remueve bien para que se impregne con los sabores de los guandules y las verduras.",
+                "Agrega el agua o caldo de pollo a la olla y condimenta con orégano, comino y sal al gusto. Mezcla todo y lleva a ebullición.",
+                "Cuando empiece a hervir, reduce el fuego a bajo, tapa la olla y cocina durante unos 20-25 minutos o hasta que el arroz esté cocido y haya absorbido el líquido.",
+                "Una vez cocido, apaga el fuego y deja reposar el moro por unos minutos.",
+                "Antes de servir, puedes adornar con cilantro fresco picado para dar un toque de frescura al plato."
+            ],
+            "category": {
+                "_id": "6529f9d8311a4af3d8762f3f",
+                "name": "arroz",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697249752/categories/a2k9ht25kl8v5aqf4qyc.jpg",
+                "slug": "arroz"
+            },
+            "country": {
+                "_id": "6529bce63ebc2db25620ebd6",
+                "name": "republica dominicana",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697234149/countrys/xjlpvqfykwgbzangr3hw.jpg",
+                "slug": "republica-dominicana"
+            },
+            "duration": 45,
+            "portions": 6,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701895333/recipes/upribyi0v1ytjmrb5mqx.jpg",
+            "createdAt": "2023-12-06T20:42:14.482Z",
+            "updatedAt": "2024-01-14T18:04:32.289Z",
+            "slug": "moro-de-guandules"
+        },
+        {
+            "_id": "656fe15ea4e7643da7334d45",
+            "name": "mac and cheese",
+            "description": "el mac and cheese, abreviatura de macaroni and cheese, es un plato icónico y reconfortante en la gastronomía estadounidense. esta receta combina la simpleza de la pasta con la riqueza y cremosidad del queso en una armoniosa fusión de sabores y texturas. los macarrones, o cualquier tipo de pasta similar, se cocinan al dente y se mezclan con una suave y sedosa salsa de queso cheddar. el resultado es una explosión de sabor reconfortante que se derrite en la boca.",
+            "ingredients": [
+                "350g de macarrones o pasta similar",
+                "4 tazas de leche",
+                "1/4 taza de mantequilla",
+                "1/4 taza de harina",
+                "Sal y pimienta al gusto",
+                "1/2 taza de pan rallado (opcional para gratinar)"
+            ],
+            "steps": [
+                "Cocina la pasta en agua con sal siguiendo las instrucciones del paquete. Escúrrela y reserva.",
+                "En una cacerola grande, derrite la mantequilla a fuego medio. Agrega la harina y mezcla hasta que se forme una pasta suave.",
+                "Vierte la leche gradualmente, mezclando constantemente para evitar grumos. Cocina hasta que la mezcla espese ligeramente.",
+                "Agrega el queso cheddar rallado a la mezcla de leche y revuelve hasta que se derrita y la salsa esté cremosa. Condimenta con sal y pimienta al gusto.",
+                "Mezcla la salsa de queso con la pasta cocida hasta que esté bien cubierta.",
+                "Opcionalmente, espolvorea pan rallado sobre la parte superior del Mac and Cheese para gratinar.",
+                "Hornea a 180°C durante unos 20 minutos o hasta que esté dorado y burbujeante."
+            ],
+            "category": {
+                "_id": "64e3d315f87837090882b5f7",
+                "name": "pastas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032199/categories/w61jjta0f6shho2tghu4.png",
+                "slug": "pastas"
+            },
+            "country": {
+                "_id": "6529b9fc3ebc2db25620ebbf",
+                "name": "estados unidos",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697233403/countrys/cjkxh8mhgqsncoemmiwr.png",
+                "slug": "estados-unidos"
+            },
+            "duration": 45,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701831004/recipes/l9vhvqpg2bvugsigeoth.png",
+            "createdAt": "2023-12-06T02:50:06.584Z",
+            "updatedAt": "2024-01-14T18:04:09.594Z",
+            "slug": "mac-and-cheese"
+        },
+        {
+            "_id": "656e8c8ce68198979cf220d3",
+            "name": "carne mechada",
+            "description": "la carne mechada es un plato emblemático de la gastronomía venezolana que se elabora con carne de res cocida lentamente, deshilachada y sazonada con especias y vegetales. inspirada en la técnica andaluza de la \"carne mechá\", esta receta se ha arraigado en la cultura culinaria de latinoamérica, ofreciendo una preparación versátil que se adapta a múltiples platos típicos.",
+            "ingredients": [
+                "1 kg de carne de res (falda)",
+                "1 cebolla grande, picada en trozos",
+                "2 ajíes dulces, picados",
+                "1/2 pimiento rojo, cortado en cubos",
+                "Un manojo de cilantro, picado",
+                "1 cucharadita de adobo completo",
+                "4 dientes de ajo, picados finamente",
+                "Hojas de laurel",
+                "1 rama de celery o apio",
+                "1 cucharada de aceite vegetal",
+                "1 lata pequeña de tomate frito",
+                "Salsa inglesa",
+                "Comino",
+                "Sal y pimienta al gusto"
+            ],
+            "steps": [
+                "Prepara la carne retirando cualquier exceso de grasa y córtala en trozos pequeños pero manteniendo su longitud.",
+                "En una olla con agua (1.5 litros), añade hojas de laurel, adobo, sal, cilantro y la rama de celery. Hierve la carne a fuego medio-alto durante unos 30 minutos desde que el agua empiece a hervir.",
+                "Reserva el caldo obtenido y, una vez la carne esté tierna, deshiláchala en hilos finos usando dos tenedores.",
+                "En una sartén con aceite caliente, sofríe la cebolla, ajíes, pimiento y ajo hasta que los vegetales estén suaves y la cebolla se vuelva transparente.",
+                "Incorpora el tomate frito a los vegetales sofritos y mezcla bien durante unos minutos.",
+                "Agrega la carne desmechada a la sartén y vierte el caldo reservado. Cocina a fuego medio durante 20 minutos, permitiendo que los sabores se integren.",
+                "Añade salsa inglesa, comino, sal y pimienta al gusto para ajustar los sabores de la carne mechada."
+            ],
+            "category": {
+                "_id": "64e3dbf5f87837090882b613",
+                "name": "carne",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031304/categories/m5gcsk5syuvnjsymoowj.jpg",
+                "slug": "carne"
+            },
+            "country": {
+                "_id": "6529b2da3ebc2db25620eb91",
+                "name": "venezuela",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231578/countrys/opucqv0zhr4yyufzaahc.jpg",
+                "slug": "venezuela"
+            },
+            "duration": 90,
+            "portions": 6,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701743756/recipes/vmrptqgeswatnagmobyz.jpg",
+            "createdAt": "2023-12-05T02:35:56.862Z",
+            "updatedAt": "2024-01-14T18:03:44.157Z",
+            "slug": "carne-mechada"
+        },
+        {
+            "_id": "656e85dcf276e1f2bd10ba16",
+            "name": "pisto manchego",
+            "description": "el pisto manchego es un plato tradicional de la región de la mancha en españa. se trata de una preparación de verduras sofritas, generalmente tomate, pimiento, calabacín y cebolla, que se cocinan lentamente para crear un guiso sabroso y reconfortante.",
+            "ingredients": [
+                "2 tomates maduros, pelados y picados en trozos pequeños",
+                "1 cebolla grande, picada",
+                "1 pimiento rojo, cortado en cubitos",
+                "1 pimiento verde, cortado en cubitos",
+                "1 calabacín grande, cortado en cubitos",
+                "2 dientes de ajo, picados finamente",
+                "4 cucharadas de aceite de oliva virgen extra",
+                "Sal al gusto",
+                "Pimienta negra al gusto",
+                "Opcional: huevo frito o jamón serrano para acompañar"
+            ],
+            "steps": [
+                "En una sartén grande o una cazuela, calienta el aceite de oliva a fuego medio.",
+                "Añade la cebolla y los ajos picados. Sofríe hasta que estén dorados y transparentes, aproximadamente 5 minutos.",
+                "Agrega los pimientos cortados a la sartén y cocina durante unos 5-7 minutos, removiendo ocasionalmente, hasta que estén tiernos.",
+                "Incorpora el calabacín y cocina por otros 5 minutos, revolviendo de vez en cuando.",
+                "Agrega los tomates picados a la mezcla de verduras. Cocina a fuego medio-bajo durante unos 15-20 minutos, removiendo de vez en cuando, hasta que los tomates se deshagan y se forme una mezcla espesa.",
+                "Añade sal y pimienta al gusto. Prueba y ajusta los condimentos si es necesario.",
+                "Opcionalmente, puedes servir el pisto acompañado de un huevo frito o trozos de jamón serrano."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529bbf13ebc2db25620ebcd",
+                "name": "españa",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697233905/countrys/fceocbbiy4zbh35druiq.jpg",
+                "slug": "espana"
+            },
+            "duration": 50,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701742044/recipes/wndxu2dywazrdec3n3su.jpg",
+            "createdAt": "2023-12-05T02:07:24.951Z",
+            "updatedAt": "2024-01-14T18:03:10.106Z",
+            "slug": "pisto-manchego"
+        },
+        {
+            "_id": "656e816bf276e1f2bd10b9a5",
+            "name": "arroz caprese",
+            "description": "el arroz caprese es una variación fresca y sabrosa inspirada en la famosa ensalada caprese italiana. este plato combina la simplicidad de sabores frescos como el tomate, la mozzarella y la albahaca con el arroz, creando una explosión de frescura en cada bocado.",
+            "ingredients": [
+                "2 tazas de arroz basmati o arborio",
+                "4 tazas de caldo de verduras o agua",
+                "2 tomates maduros, cortados en cubitos",
+                "200g de mozzarella fresca, cortada en trozos pequeños",
+                "Un puñado de hojas frescas de albahaca, picadas finamente",
+                "3 cucharadas de aceite de oliva virgen extra",
+                "Sal y pimienta al gusto",
+                "Opcional: vinagre balsámico para decorar"
+            ],
+            "steps": [
+                "Enjuaga el arroz bajo agua fría hasta que el agua salga clara para eliminar el exceso de almidón.",
+                "En una olla grande, hierve el caldo de verduras o agua. Agrega el arroz y cocina a fuego medio-bajo hasta que esté tierno y el líquido se haya absorbido, siguiendo las instrucciones del paquete.",
+                "Mientras el arroz se cocina, en un bol grande, mezcla los tomates cortados, la mozzarella y la albahaca picada. Añade sal y pimienta al gusto y mezcla con suavidad.",
+                "Una vez que el arroz esté cocido, retíralo del fuego y déjalo reposar tapado durante unos minutos.",
+                "Incorpora la mezcla de tomate, mozzarella y albahaca al arroz cocido. Agrega el aceite de oliva y mezcla suavemente para integrar todos los ingredientes.",
+                "Si lo deseas, decora con un ligero chorrito de vinagre balsámico antes de servir para realzar los sabores."
+            ],
+            "category": {
+                "_id": "6529f9d8311a4af3d8762f3f",
+                "name": "arroz",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697249752/categories/a2k9ht25kl8v5aqf4qyc.jpg",
+                "slug": "arroz"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 40,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701740905/recipes/f05emqfzpz3hovv81xe0.png",
+            "createdAt": "2023-12-05T01:48:27.092Z",
+            "updatedAt": "2024-01-14T18:02:32.201Z",
+            "slug": "arroz-caprese"
+        },
+        {
+            "_id": "656e7d8af276e1f2bd10b978",
+            "name": "quindim",
+            "description": "el quindim es un postre brasileño exquisitamente dulce y sabroso, con un sabor a coco deliciosamente pronunciado y una textura suave y cremosa. este postre amarillo brillante, derivado de la cocina brasileña, es una tentación irresistible para los amantes del coco.",
+            "ingredients": [
+                "10 yemas de huevo",
+                "1 taza de azúcar",
+                "1 taza de coco rallado",
+                "Mantequilla para engrasar los moldes"
+            ],
+            "steps": [
+                "Precalienta el horno a 180°C (350°F). Engrasa los moldes para quindim con mantequilla y reserva.",
+                "En un recipiente, mezcla las yemas de huevo y el azúcar hasta obtener una mezcla homogénea",
+                "Agrega el coco rallado a la mezcla de yemas y azúcar, incorporándolo suavemente para que se distribuya de manera uniforme.",
+                "Vierte la mezcla en los moldes para quindim, llenándolos hasta aproximadamente 3/4 de su capacidad.",
+                "Coloca los moldes en una bandeja para hornear y añade agua caliente en la bandeja, creando un baño María para cocinar los quindims.",
+                "Hornea durante unos 30-40 minutos o hasta que la superficie esté dorada y al insertar un palillo en el centro, este salga limpio.",
+                "Retira del horno y deja enfriar completamente antes de desmoldar los quindims.",
+                "Refrigera por al menos unas horas antes de servir para que adquieran una textura más firme y deliciosa."
+            ],
+            "category": {
+                "_id": "64e63361f07a623d0f12cac5",
+                "name": "dulces y repostería",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701034293/categories/n6czmh1f6ka9avi1eykv.jpg",
+                "slug": "dulces-y-reposteria"
+            },
+            "country": {
+                "_id": "6529b4b53ebc2db25620eb9f",
+                "name": "brasil",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232053/countrys/wke9iiuwdnpjxzrhkpgn.jpg",
+                "slug": "brasil"
+            },
+            "duration": 60,
+            "portions": 8,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701739914/recipes/s62ayyyfx5ioxmacezzu.jpg",
+            "createdAt": "2023-12-05T01:31:54.794Z",
+            "updatedAt": "2024-01-14T18:02:08.761Z",
+            "slug": "quindim"
+        },
+        {
+            "_id": "656e7ab3f276e1f2bd10b956",
+            "name": "migas del pastor",
+            "description": "las migas del pastor son un plato emblemático y reconfortante de la gastronomía española, arraigado en la tradición rural de varias regiones de españa. esta receta, con raíces históricas, se elabora a partir de ingredientes sencillos y básicos, transformando el pan duro en una delicia crujiente y sabrosa.",
+            "ingredients": [
+                "500g de pan duro",
+                "100ml de aceite de oliva virgen extra",
+                "4 dientes de ajo",
+                "150g de panceta o chorizo (opcional)",
+                "Pimientos verdes (opcional)",
+                "Sal al gusto",
+                "Huevos (1 por persona, opcional)"
+            ],
+            "steps": [
+                "Corta el pan duro en trozos pequeños o desmenúzalo con las manos. Deja que repose durante unas horas para que se endurezca más.",
+                "En una sartén grande, calienta el aceite de oliva a fuego medio. Agrega los dientes de ajo enteros y pelados. Si decides usar panceta o chorizo, añádelos en este paso para que se cocinen junto con el ajo y suelten su sabor.",
+                "Cuando los ajos empiecen a dorarse, retíralos de la sartén y reserva. Si estás utilizando pimientos verdes, córtalos en tiras y añádelos a la sartén. Cocina hasta que estén tiernos y retíralos también.",
+                "En la misma sartén, agrega el pan duro troceado. Ve removiendo y desmenuzando con una espátula o cuchara de madera para que se impregne bien con el aceite. Cocina a fuego medio durante unos 15-20 minutos, removiendo constantemente para que las migas se doren de manera uniforme.",
+                "Una vez las migas estén doradas y crujientes, añade los ajos dorados (y la panceta o chorizo, si los usaste) de nuevo a la sartén. Remueve para mezclar todo.",
+                "Prueba y ajusta la sal si es necesario.",
+                "Opcional: En el centro de la sartén, haz un hueco y agrega un huevo por persona. Cocina a fuego medio hasta que la clara esté cocida pero la yema aún esté líquida o a tu preferencia."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529bbf13ebc2db25620ebcd",
+                "name": "españa",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697233905/countrys/fceocbbiy4zbh35druiq.jpg",
+                "slug": "espana"
+            },
+            "duration": 45,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701739308/recipes/voco9wo0ugh8nmcz7cpw.jpg",
+            "createdAt": "2023-12-05T01:19:47.949Z",
+            "updatedAt": "2024-01-14T18:01:44.488Z",
+            "slug": "migas-del-pastor"
+        },
+        {
+            "_id": "656d411a9a6c31f2dd190215",
+            "name": "marmitako",
+            "description": "el marmitako es un plato arraigado en la tradición gastronómica del país vasco, un guiso marinero que evoca la esencia de las costas y la frescura del mar en cada cucharada.el corazón de este plato reside en una combinación magistral de ingredientes simples pero poderosos: el bonito fresco, las patatas, los pimientos y el tomate se unen en una danza de sabores que se mezclan a la perfección.",
+            "ingredients": [
+                "800 gramos de bonito fresco (puede sustituirse por atún o pez espada)",
+                "4 patatas grandes, peladas y cortadas en cubos",
+                "2 cebollas grandes, picadas",
+                "4 dientes de ajo, picados",
+                "2 pimientos verdes, cortados en tiras",
+                "4 tomates maduros, pelados y picados",
+                "1 pimiento choricero (puede reemplazarse por pimentón dulce)",
+                "1 hoja de laurel",
+                "Aceite de oliva virgen extra",
+                "Sal al gusto",
+                "Pimienta negra molida",
+                "Caldo de pescado o agua (aproximadamente 500 ml)"
+            ],
+            "steps": [
+                "En una cazuela grande o marmita, calienta un poco de aceite de oliva a fuego medio. Agrega la cebolla y el ajo, y sofríe hasta que estén dorados y fragantes.",
+                "Añade los pimientos verdes y rehoga durante unos minutos hasta que estén tiernos.",
+                "Incorpora los tomates picados y cocina hasta que se deshagan y se forme una especie de sofrito.",
+                "Mientras se hace el sofrito, pon a remojar el pimiento choricero en agua caliente para ablandarlo. Una vez esté blando, quita las semillas y agrega la pulpa al sofrito.",
+                "Agrega las patatas cortadas en cubos a la cazuela y mezcla bien con el sofrito.",
+                "Vierte el caldo de pescado o agua suficiente para cubrir las patatas. Añade la hoja de laurel y sazona con sal y pimienta al gusto. Deja cocinar a fuego medio durante unos 15-20 minutos hasta que las patatas estén casi cocidas.",
+                "Añade el bonito cortado en trozos grandes a la cazuela y cocina durante unos 5-8 minutos más, procurando que el pescado quede jugoso.",
+                "Rectifica la sazón si es necesario y retira la hoja de laurel antes de servir."
+            ],
+            "category": {
+                "_id": "64e3df9df87837090882b61b",
+                "name": "pescado",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701034641/categories/i0m2cb2gyul99v47imay.avif",
+                "slug": "pescado"
+            },
+            "country": {
+                "_id": "6529bbf13ebc2db25620ebcd",
+                "name": "españa",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697233905/countrys/fceocbbiy4zbh35druiq.jpg",
+                "slug": "espana"
+            },
+            "duration": 50,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701658905/recipes/vsputl1pvqdw7qn0gbz8.jpg",
+            "createdAt": "2023-12-04T03:01:46.148Z",
+            "updatedAt": "2024-01-14T18:01:13.395Z",
+            "slug": "marmitako"
+        },
+        {
+            "_id": "656d3e7d9a6c31f2dd1901fe",
+            "name": "galletas con chispas de chocolate",
+            "description": "las galletas con chispas de chocolate, un ícono en la repostería estadounidense, son una fusión perfecta de lo crujiente y lo suave en cada bocado. con una apariencia tentadora y un aroma reconfortante que llena la cocina mientras se hornean, estas galletas son un placer para todos los sentidos.",
+            "ingredients": [
+                "2 1/4 tazas de harina de trigo",
+                "1 cucharadita de bicarbonato de sodio",
+                "1/2 cucharadita de sal",
+                "1 taza de mantequilla a temperatura ambiente",
+                "3/4 taza de azúcar granulada",
+                "3/4 taza de azúcar morena",
+                "1 cucharadita de esencia de vainilla",
+                "2 huevos",
+                "2 tazas de chispas de chocolate semidulce"
+            ],
+            "steps": [
+                "Precalienta el horno a 180°C (350°F) y prepara bandejas para hornear cubriéndolas con papel pergamino o con spray antiadherente.",
+                "En un tazón mediano, mezcla la harina, el bicarbonato de sodio y la sal. Reserva esta mezcla.",
+                "En otro tazón grande, bate la mantequilla, el azúcar granulada, el azúcar morena y la esencia de vainilla hasta obtener una mezcla suave y cremosa.",
+                "Agrega los huevos uno a la vez, batiendo bien después de cada adición.",
+                "Incorpora gradualmente la mezcla de harina a la mezcla de mantequilla y mezcla hasta que esté bien combinado.",
+                "Agrega las chispas de chocolate y mezcla con una espátula o cuchara de madera hasta que estén distribuidas de manera uniforme en la masa.",
+                "Con una cuchara para galletas o usando las manos, forma bolitas de masa del tamaño de una nuez y colócalas en las bandejas para hornear dejando espacio entre cada una.",
+                "Hornea las galletas en el horno precalentado durante 10-12 minutos o hasta que los bordes estén dorados.",
+                "Retira las galletas del horno y deja que se enfríen en las bandejas durante unos minutos antes de transferirlas a una rejilla para que se enfríen completamente."
+            ],
+            "category": {
+                "_id": "64e63361f07a623d0f12cac5",
+                "name": "dulces y repostería",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701034293/categories/n6czmh1f6ka9avi1eykv.jpg",
+                "slug": "dulces-y-reposteria"
+            },
+            "country": {
+                "_id": "6529b9fc3ebc2db25620ebbf",
+                "name": "estados unidos",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697233403/countrys/cjkxh8mhgqsncoemmiwr.png",
+                "slug": "estados-unidos"
+            },
+            "duration": 30,
+            "portions": 18,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701658236/recipes/h5ztdvndliijik5fedza.jpg",
+            "createdAt": "2023-12-04T02:50:37.060Z",
+            "updatedAt": "2024-01-14T18:00:46.478Z",
+            "slug": "galletas-con-chispas-de-chocolate"
+        },
+        {
+            "_id": "656d3a239a6c31f2dd1901de",
+            "name": "arroz primavera",
+            "description": "el arroz primavera es una explosión de colores, sabores y frescura en un plato. es una celebración culinaria de la temporada, donde una variedad de vegetales se unen en armonía con el arroz para crear una deliciosa experiencia gastronómica.",
+            "ingredients": [
+                "2 tazas de arroz blanco",
+                "4 tazas de caldo de verduras",
+                "2 cucharadas de aceite de oliva",
+                "1 cebolla, picada",
+                "2 dientes de ajo, picados",
+                "1 zanahoria, cortada en cubitos",
+                "1 pimiento rojo, cortado en tiras",
+                "1 pimiento verde, cortado en tiras",
+                "1 taza de guisantes",
+                "1 taza de maíz",
+                "1 calabacín, cortado en cubitos",
+                "Sal y pimienta al gusto",
+                "1 cucharadita de comino en polvo (opcional)",
+                "Perejil fresco picado para decorar (opcional)"
+            ],
+            "steps": [
+                "Enjuaga el arroz bajo agua hasta que el agua salga clara. Coloca el arroz en una olla con el caldo de verduras y lleva a ebullición. Reduce el fuego, tapa y cocina durante 15-20 minutos o hasta que el arroz esté tierno y el líquido se haya absorbido.",
+                "Mientras se cocina el arroz, calienta el aceite de oliva en una sartén grande a fuego medio. Agrega la cebolla y el ajo, y cocina hasta que estén dorados y fragantes.",
+                "Añade la zanahoria, los pimientos, los guisantes, el maíz y el calabacín a la sartén. Saltea durante unos 5-7 minutos hasta que las verduras estén tiernas pero aún crujientes.",
+                "Incorpora el arroz cocido a las verduras salteadas en la sartén. Mezcla bien y cocina durante unos minutos más para que se integren los sabores.",
+                "Si lo deseas, sazona con sal, pimienta y comino en polvo al gusto.",
+                "Sirve el arroz primavera en platos individuales y decora con perejil fresco picado si lo prefieres."
+            ],
+            "category": {
+                "_id": "6529f9d8311a4af3d8762f3f",
+                "name": "arroz",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697249752/categories/a2k9ht25kl8v5aqf4qyc.jpg",
+                "slug": "arroz"
+            },
+            "duration": 40,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701657123/recipes/v6lumegt1wqgfwyrkjz8.jpg",
+            "createdAt": "2023-12-04T02:32:03.690Z",
+            "updatedAt": "2024-01-14T18:00:17.165Z",
+            "slug": "arroz-primavera"
+        },
+        {
+            "_id": "656d2f703cde4a7a63ba08a4",
+            "name": "bobó de camarão",
+            "description": "el bobó de camarão es un plato emblemático de la cocina brasileña, originario del nordeste del país. es una mezcla perfecta de sabores que combina la cremosidad de la yuca con la frescura de los camarones.",
+            "ingredients": [
+                "500g de camarones limpios",
+                "500g de yuca",
+                "1 cebolla picada",
+                "2 dientes de ajo picados",
+                "2 tomates picados",
+                "1 pimiento rojo picado",
+                "200ml de leche de coco",
+                "200ml de caldo de pescado",
+                "Aceite de oliva",
+                "Sal y pimienta al gusto",
+                "Cilantro fresco picado para decorar"
+            ],
+            "steps": [
+                "Cocina la yuca hasta que esté tierna, luego haz un puré con ella.",
+                "En una sartén grande, calienta un poco de aceite de oliva y sofríe la cebolla, el ajo y el pimiento hasta que estén dorados.",
+                "Agrega los tomates y cocina hasta que se deshagan.",
+                "Incorpora los camarones y cocina hasta que estén rosados.",
+                "Añade la leche de coco, el caldo de pescado y el puré de yuca. Cocina a fuego medio-bajo durante unos 10-15 minutos hasta que la mezcla espese.",
+                "Ajusta la sazón con sal y pimienta.",
+                "Sirve caliente, espolvoreado con cilantro fresco picado."
+            ],
+            "category": {
+                "_id": "64dd24ed7eb13ef826e45d10",
+                "name": "sopas y cremas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701033931/categories/xrfioqtkjw4bhl0vkc1p.jpg",
+                "slug": "sopas-y-cremas"
+            },
+            "country": {
+                "_id": "6529b4b53ebc2db25620eb9f",
+                "name": "brasil",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232053/countrys/wke9iiuwdnpjxzrhkpgn.jpg",
+                "slug": "brasil"
+            },
+            "duration": 45,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701654383/recipes/ryjgn6isowyqfshptypr.jpg",
+            "createdAt": "2023-12-04T01:46:24.533Z",
+            "updatedAt": "2024-01-14T17:59:41.732Z",
+            "slug": "bobo-de-camarao"
+        },
+        {
+            "_id": "656cf9d587813ca6ed4aba31",
+            "name": "baião de dois",
+            "description": "el baião de dois, un plato emblemático de la región nordeste de brasil, es una exquisita y reconfortante mezcla culinaria que combina arroz, frijoles, carne seca y queso, ofreciendo una explosión de sabores y texturas en cada bocado. esta receta, arraigada en la rica tradición gastronómica brasileña, se destaca por su sencillez y su capacidad para unir ingredientes comunes en una preparación que deleita los paladares.",
+            "ingredients": [
+                "2 tazas de arroz",
+                "1 taza de frijoles verdes (puede ser frijol de corda)",
+                "1 taza de carne seca desmenuzada y cocida",
+                "1/2 taza de queso coalho (puede ser reemplazado por queso fresco o queso panela)",
+                "1 cebolla picada",
+                "3 dientes de ajo picados",
+                "2 tomates picados",
+                "1 pimiento verde picado",
+                "1 pimiento rojo picado",
+                "1 lata de leche de coco",
+                "2 cucharadas de aceite vegetal",
+                "Sal y pimienta al gusto",
+                "Cilantro picado para decorar (opcional)"
+            ],
+            "steps": [
+                "Cocina el arroz como lo haces normalmente y reserva.",
+                "Cocina los frijoles verdes en agua hasta que estén tiernos, luego escúrrelos y reserva.",
+                "En una sartén grande, calienta el aceite a fuego medio y saltea la cebolla y el ajo hasta que estén dorados.",
+                "Agrega los pimientos y los tomates, y cocina por unos minutos hasta que estén tiernos.",
+                "Incorpora la carne seca desmenuzada y cocina por unos minutos más.",
+                "Añade los frijoles cocidos y el arroz a la sartén. Mezcla bien.",
+                "Agrega la leche de coco y mezcla hasta que esté bien integrada.",
+                "Corta el queso coalho en cubos y añádelo a la mezcla.",
+                "Cocina a fuego lento durante unos minutos hasta que el queso se derrita y todos los ingredientes estén bien combinados.",
+                "Prueba y ajusta la sazón con sal y pimienta si es necesario.",
+                "Sirve caliente y, si lo deseas, espolvorea cilantro picado encima como decoración."
+            ],
+            "category": {
+                "_id": "6529f9d8311a4af3d8762f3f",
+                "name": "arroz",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697249752/categories/a2k9ht25kl8v5aqf4qyc.jpg",
+                "slug": "arroz"
+            },
+            "country": {
+                "_id": "6529b4b53ebc2db25620eb9f",
+                "name": "brasil",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232053/countrys/wke9iiuwdnpjxzrhkpgn.jpg",
+                "slug": "brasil"
+            },
+            "duration": 45,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701640660/recipes/ymaelfkfyawvzxfxuipr.webp",
+            "createdAt": "2023-12-03T21:57:41.827Z",
+            "updatedAt": "2024-01-14T17:59:07.127Z",
+            "slug": "baiao-de-dois"
+        },
+        {
+            "_id": "656a7f2c9bded24b13dacfa3",
+            "name": "spaghetti a la boloñesa",
+            "description": "los espaguetis a la boloñesa son un plato emblemático de la cocina italiana que fusiona la suavidad de la pasta con una salsa rica y reconfortante. esta receta ha viajado por el mundo entero, conquistando paladares con su combinación de sabores profundos y texturas reconfortantes.",
+            "ingredients": [
+                "350 g de espaguetis",
+                "500 g de carne picada (ternera o cerdo, o mezcla)",
+                "1 cebolla picada",
+                "2 dientes de ajo picados",
+                "2 zanahorias ralladas",
+                "400 g de tomate triturado o tomate en conserva",
+                "2 cucharadas de pasta de tomate",
+                "1 vaso de vino tinto (opcional)",
+                "Sal y pimienta al gusto",
+                "Aceite de oliva",
+                "Queso parmesano rallado para servir (opcional)",
+                "Hojas de albahaca fresca para decorar (opcional)"
+            ],
+            "steps": [
+                "En una sartén grande, calienta un poco de aceite de oliva a fuego medio-alto. Sofríe la cebolla y el ajo hasta que estén dorados.",
+                "Añade la carne picada y cocina hasta que esté dorada y cocida completamente.",
+                "Agrega las zanahorias ralladas y cocina por unos minutos más.",
+                "Vierte el vaso de vino tinto (si lo estás usando) y deja que se evapore el alcohol.",
+                "Añade el tomate triturado y la pasta de tomate. Mezcla bien y reduce el fuego. Deja cocinar a fuego lento durante al menos 30-40 minutos, removiendo ocasionalmente. La salsa debe espesarse y los sabores se mezclarán mejor con el tiempo.",
+                "Mientras tanto, cuece los espaguetis en agua con sal siguiendo las instrucciones del paquete hasta que estén al dente. Escúrrelos.",
+                "Sirve los espaguetis en platos individuales y añade la salsa boloñesa por encima.",
+                "Opcionalmente, decora con hojas de albahaca fresca y sirve con queso parmesano rallado."
+            ],
+            "category": {
+                "_id": "64e3d315f87837090882b5f7",
+                "name": "pastas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032199/categories/w61jjta0f6shho2tghu4.png",
+                "slug": "pastas"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 40,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701478187/recipes/hfsdowd8snnu4fnhlsff.avif",
+            "createdAt": "2023-12-02T00:49:48.623Z",
+            "updatedAt": "2024-01-14T17:58:22.743Z",
+            "slug": "spaghetti-a-la-bolonesa"
+        },
+        {
+            "_id": "656a4d74bcc34ec0bc0937f0",
+            "name": "patatas bravas",
+            "description": "las patatas bravas son un plato típico español que consiste en patatas cortadas en cubos, fritas y acompañadas con una salsa picante y alioli (salsa de ajo). es un aperitivo popular en bares y restaurantes de españa, conocido por su sabor intenso y su combinación de sabores.",
+            "ingredients": [
+                "4 patatas medianas",
+                "Aceite de oliva para freír",
+                "Sal al gusto",
+                "4 cucharadas de tomate frito o salsa de tomate",
+                "1 cucharada de salsa picante (puede ser salsa de tabasco o salsa brava)",
+                "1 cucharadita de pimentón dulce",
+                "3 dientes de ajo",
+                "1 huevo",
+                "200 ml de aceite de oliva"
+            ],
+            "steps": [
+                "Pela las patatas y córtalas en cubos pequeños.",
+                "Fríe las patatas en abundante aceite caliente hasta que estén doradas y crujientes. Escúrrelas sobre papel absorbente y salpica con sal al gusto.",
+                "Para la salsa brava, mezcla el tomate frito, la salsa picante, el pimentón dulce y la sal en un bol. Reserva la salsa.",
+                "Para el alioli, pela y pica finamente los dientes de ajo. En un recipiente, bate el huevo con una pizca de sal y ve agregando lentamente el aceite de oliva mientras bates, hasta obtener una mezcla espesa. Añade los ajos picados y mezcla bien.",
+                "Sirve las patatas fritas en un plato y añade la salsa brava por encima. Puedes poner un poco de alioli sobre las patatas o servirlo aparte como acompañamiento."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529bbf13ebc2db25620ebcd",
+                "name": "españa",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697233905/countrys/fceocbbiy4zbh35druiq.jpg",
+                "slug": "espana"
+            },
+            "duration": 30,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701465459/recipes/tilzdmticomoetvtrjrs.webp",
+            "createdAt": "2023-12-01T21:17:40.072Z",
+            "updatedAt": "2024-01-14T17:57:46.887Z",
+            "slug": "patatas-bravas"
+        },
+        {
+            "_id": "656a4921bcc34ec0bc0937ce",
+            "name": "arroz con leche",
+            "description": "el arroz con leche es un postre cremoso y reconfortante elaborado con arroz, leche, azúcar y canela. es popular en colombia y se sirve frío o caliente, a menudo como parte de las celebraciones o simplemente como un dulce delicioso y reconfortante.",
+            "ingredients": [
+                "1 taza de arroz",
+                "4 tazas de leche",
+                "1 rama de canela",
+                "azúcar",
+                "Canela en polvo para espolvorear"
+            ],
+            "steps": [
+                "Enjuaga el arroz bajo agua fría para quitar el exceso de almidón.",
+                "En una olla grande, hierve la leche junto con la canela",
+                "Agrega el arroz a la leche hirviendo y cocina a fuego medio-bajo, removiendo constantemente para evitar que el arroz se pegue, durante unos 20-25 minutos hasta que el arroz esté cocido y la mezcla se haya espesado.",
+                "Añade el azúcar y mezcla bien. Continúa cocinando a fuego medio-bajo durante otros 10-15 minutos hasta que el azúcar se disuelva por completo y el arroz tenga una consistencia cremosa.",
+                "Retira la rama de canela, y deja enfriar el arroz con leche.",
+                "Sirve frío o caliente, espolvoreando canela en polvo por encima para decorar."
+            ],
+            "category": {
+                "_id": "64e63361f07a623d0f12cac5",
+                "name": "dulces y repostería",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701034293/categories/n6czmh1f6ka9avi1eykv.jpg",
+                "slug": "dulces-y-reposteria"
+            },
+            "country": {
+                "_id": "6529b28c3ebc2db25620eb8a",
+                "name": "colombia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231499/countrys/uno5dujn4n9rw0qbojo7.jpg",
+                "slug": "colombia"
+            },
+            "duration": 45,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701464353/recipes/nsessanht4ue7clxqbt6.jpg",
+            "createdAt": "2023-12-01T20:59:13.738Z",
+            "updatedAt": "2024-01-14T17:57:13.025Z",
+            "slug": "arroz-con-leche"
+        },
+        {
+            "_id": "656a4009de52b1d5222067c7",
+            "name": "molletes",
+            "description": "los molletes son una deliciosa y sencilla opción de desayuno o cena mexicana. consisten en pan francés (bolillo) cortado por la mitad y cubierto con frijoles refritos y queso, horneados hasta que el queso se derrite y se sirven con salsa picante, pico de gallo o guacamole.",
+            "ingredients": [
+                "4 bolillos o panes franceses",
+                "1 lata de frijoles refritos",
+                "200 g de queso rallado (tipo Cheddar, Oaxaca o Monterrey Jack)",
+                "Opcional: Salsa picante, pico de gallo, guacamole para acompañar"
+            ],
+            "steps": [
+                "Precalienta el horno a 180°C.",
+                "Corta los bolillos por la mitad a lo largo y colócalos en una bandeja para hornear con la parte cortada hacia arriba.",
+                "Unta una capa generosa de frijoles refritos sobre cada mitad de bolillo.",
+                "Espolvorea el queso rallado sobre los frijoles en cada mitad.",
+                "Coloca la bandeja en el horno precalentado y hornea los molletes hasta que el queso se derrita y se dore ligeramente.",
+                "Retira del horno y sirve caliente.",
+                "Acompaña los molletes con salsa picante, pico de gallo, guacamole o tus ingredientes favoritos."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b7f83ebc2db25620ebaf",
+                "name": "mexico",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232888/countrys/wfovecda6mmhkcnear54.jpg",
+                "slug": "mexico"
+            },
+            "duration": 20,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701462024/recipes/xrtxpuz6cwf10evkwwm6.jpg",
+            "createdAt": "2023-12-01T20:20:25.499Z",
+            "updatedAt": "2024-01-14T17:56:10.222Z",
+            "slug": "molletes"
+        },
+        {
+            "_id": "656a3d72de52b1d5222067ac",
+            "name": "farofa",
+            "description": "la farofa es un acompañamiento brasileño clásico y versátil que se prepara con harina de mandioca o yuca, mantequilla o aceite, cebolla, ajo y otros ingredientes opcionales. es crujiente, sabrosa y se usa comúnmente como guarnición para platos principales.",
+            "ingredients": [
+                "2 tazas de harina de mandioca o de yuca",
+                "4 cucharadas de mantequilla o aceite vegetal",
+                "1 cebolla picada",
+                "2 dientes de ajo picados",
+                "Sal y pimienta al gusto",
+                "Opcionales: tocino, huevo, plátano verde frito, aceitunas, pimientos, pasas u otros ingredientes al gusto"
+            ],
+            "steps": [
+                "En una sartén grande, derrite la mantequilla o calienta el aceite a fuego medio.",
+                "Agrega la cebolla picada y el ajo, y sofríe hasta que estén dorados.",
+                "Si optas por añadir tocino u otros ingredientes, agrégalos a la sartén y cocina hasta que estén cocidos.",
+                "Añade la harina de mandioca a la sartén y mezcla bien con los ingredientes cocidos.",
+                "Cocina la mezcla, revolviendo constantemente, hasta que la harina esté ligeramente tostada y crujiente.",
+                "Sazona con sal y pimienta al gusto, mezclando bien.",
+                "Retira la sartén del fuego y sirve la farofa como acompañamiento."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b4b53ebc2db25620eb9f",
+                "name": "brasil",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232053/countrys/wke9iiuwdnpjxzrhkpgn.jpg",
+                "slug": "brasil"
+            },
+            "duration": 20,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701461361/recipes/yh5dhidzzzfsmosq1jo8.avif",
+            "createdAt": "2023-12-01T20:09:22.744Z",
+            "updatedAt": "2024-01-14T17:55:41.533Z",
+            "slug": "farofa"
+        },
+        {
+            "_id": "656a23d25b2dac9e1aee3e33",
+            "name": "locro",
+            "description": "el locro es un plato emblemático de la gastronomía argentina, una mezcla sabrosa y reconfortante que se disfruta especialmente en días frescos o durante festividades patrias. es un guiso espeso y lleno de sabor que combina ingredientes autóctonos como el maíz, la calabaza y la carne, brindando una experiencia culinaria que celebra la tradición y el gusto por los sabores intensos.",
+            "ingredients": [
+                "500 g de maíz blanco",
+                "500 g de carne de cerdo (preferiblemente panceta o carne de cerdo salada)",
+                "500 g de chorizo",
+                "1 calabaza pequeña",
+                "2 cebollas",
+                "3 dientes de ajo",
+                "1 pimiento rojo",
+                "1 pimiento verde",
+                "1 hoja de laurel",
+                "1 cucharadita de pimentón",
+                "Sal y pimienta al gusto",
+                "Aceite de oliva",
+                "Perejil picado (opcional, para decorar)"
+            ],
+            "steps": [
+                "Remoja el maíz en agua durante al menos 8 horas o durante toda la noche.",
+                "En una olla grande con agua hirviendo, agrega el maíz remojado y la carne de cerdo cortada en trozos. Cocina a fuego medio durante 1 hora.",
+                "Mientras tanto, en una sartén aparte, calienta un poco de aceite de oliva y sofríe las cebollas, los ajos picados, los pimientos cortados en cubitos y el pimentón.",
+                "Agrega esta mezcla a la olla grande con el maíz y la carne. Añade los chorizos enteros, la hoja de laurel, sal y pimienta al gusto. Cocina a fuego medio-bajo durante 2 horas más, revolviendo ocasionalmente.",
+                "A mitad de cocción, agrega la calabaza cortada en trozos y cocina hasta que todos los ingredientes estén tiernos y el guiso tenga una consistencia espesa.",
+                "Retira la hoja de laurel y los chorizos. Corta los chorizos en rodajas y vuelve a agregarlos al guiso.",
+                "Sirve caliente, espolvoreado con perejil picado si lo deseas."
+            ],
+            "category": {
+                "_id": "64dd24ed7eb13ef826e45d10",
+                "name": "sopas y cremas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701033931/categories/xrfioqtkjw4bhl0vkc1p.jpg",
+                "slug": "sopas-y-cremas"
+            },
+            "country": {
+                "_id": "6529b50f3ebc2db25620eba6",
+                "name": "argentina",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232143/countrys/oyxhr16sfjrjmwv957pt.jpg",
+                "slug": "argentina"
+            },
+            "duration": 210,
+            "portions": 6,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701454801/recipes/iomtkgxvujwtg6kqplrw.webp",
+            "createdAt": "2023-12-01T18:20:02.573Z",
+            "updatedAt": "2024-01-14T17:55:12.263Z",
+            "slug": "locro"
+        },
+        {
+            "_id": "656946ea18fb8e28a080cced",
+            "name": "ensalada césar",
+            "description": "la ensalada césar, originaria de méxico, es un plato clásico y versátil que combina lechuga romana crujiente, crutones dorados, queso parmesano rallado y un aderezo cremoso a base de mayonesa, jugo de limón y ajo. este plato, que también puede incluir pollo a la parrilla o cocido, ofrece un equilibrio perfecto entre sabores frescos e intensos. una opción refrescante como acompañamiento o como plato principal.",
+            "ingredients": [
+                "Lechuga romana fresca",
+                "Pollo a la parrilla o pechuga de pollo cocida, cortada en tiras o cuadritos",
+                "Crutones caseros o comprados",
+                "Queso parmesano rallado",
+                "1/2 taza de mayonesa",
+                "2 cucharadas de aceite de oliva",
+                "2 cucharadas de jugo de limón",
+                "2 dientes de ajo, picados",
+                "2 cucharaditas de mostaza Dijon",
+                "Sal y pimienta al gusto"
+            ],
+            "steps": [
+                "Preparar el aderezo: en un tazón, mezclar la mayonesa, el aceite de oliva, el jugo de limón, el ajo,  y la mostaza . Salpimentar al gusto. Refrigerar.",
+                "Lavar y secar la lechuga romana. Cortar en trozos pequeños y colocar en un tazón grande.",
+                "Agregar las tiras o cuadritos de pollo cocido o a la parrilla sobre la lechuga.",
+                "Espolvorear con los crutones y el queso parmesano rallado.",
+                "Justo antes de servir, verter el aderezo sobre la ensalada y mezclar suavemente para cubrir todos los ingredientes.",
+                "Servir en platos individuales y, si se desea, añadir más queso parmesano por encima."
+            ],
+            "category": {
+                "_id": "64e3dad8f87837090882b60f",
+                "name": "ensaladas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701033857/categories/pg9m40sd6ibhshb7wjvf.webp",
+                "slug": "ensaladas"
+            },
+            "country": {
+                "_id": "6529b7f83ebc2db25620ebaf",
+                "name": "mexico",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232888/countrys/wfovecda6mmhkcnear54.jpg",
+                "slug": "mexico"
+            },
+            "duration": 20,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701398250/recipes/mulnko37ul1oexy5dbrt.jpg",
+            "createdAt": "2023-12-01T02:37:30.599Z",
+            "updatedAt": "2024-01-14T17:54:42.602Z",
+            "slug": "ensalada-cesar"
+        },
+        {
+            "_id": "65581297896204c3106d5cac",
+            "name": "moqueca",
+            "description": "la moqueca es un estofado de pescado o mariscos típico de la región de bahía en brasil, cocinado con aceite de palma, leche de coco, tomate, pimientos y cilantro.",
+            "ingredients": [
+                "500 g de filetes de pescado (como robalo, merluza o cualquier pescado blanco firme)",
+                "500 g de camarones limpios",
+                "2 tomates maduros, picados",
+                "1 cebolla grande, picada",
+                "2 dientes de ajo, picados",
+                "1 pimiento verde, cortado en tiras",
+                "1 pimiento rojo, cortado en tiras",
+                "1 lata de leche de coco",
+                "1 taza de caldo de pescado o agua",
+                "Aceite de dendé (aceite de palma)",
+                "Jugo de limón",
+                "Cilantro fresco picado",
+                "Sal y pimienta al gusto"
+            ],
+            "steps": [
+                "Corta el pescado en trozos medianos y marínalo con jugo de limón, sal y pimienta. Deja reposar durante unos 15-20 minutos.",
+                "En una olla grande, calienta un poco de aceite de dendé a fuego medio. Agrega la cebolla y el ajo, y sofríe hasta que estén dorados.",
+                "Agrega los tomates picados y cocina hasta que se deshagan un poco. Luego, incorpora los pimientos y cocina por unos minutos más.",
+                "Coloca los trozos de pescado y los camarones en la olla. Vierte la leche de coco y el caldo de pescado o agua. Añade sal y pimienta al gusto. Cubre la olla y cocina a fuego medio durante unos 15-20 minutos, o hasta que el pescado esté cocido.",
+                "Antes de servir, espolvorea cilantro fresco picado por encima."
+            ],
+            "category": {
+                "_id": "64dd24ed7eb13ef826e45d10",
+                "name": "sopas y cremas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701033931/categories/xrfioqtkjw4bhl0vkc1p.jpg",
+                "slug": "sopas-y-cremas"
+            },
+            "country": {
+                "_id": "6529b4b53ebc2db25620eb9f",
+                "name": "brasil",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232053/countrys/wke9iiuwdnpjxzrhkpgn.jpg",
+                "slug": "brasil"
+            },
+            "duration": 45,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1700270833/recipes/ymjilbr4gfpjucb5yl5p.jpg",
+            "createdAt": "2023-11-18T01:25:43.414Z",
+            "updatedAt": "2024-01-14T17:54:09.713Z",
+            "slug": "moqueca"
+        },
+        {
+            "_id": "65580dfe896204c3106d5c84",
+            "name": "acarajé",
+            "description": "el acarajé es una especialidad culinaria de origen africano muy popular en brasil, especialmente en bahía. son bollos fritos hechos de masa de frijol y cebolla, rellenos con vatapá, camarones, pimientos y otros ingredientes.",
+            "ingredients": [
+                "2 tazas de frijoles carioca (frijoles de ojo negro) secos",
+                "1 cebolla grande, picada",
+                "1 pimiento verde, picado",
+                "500 g de camarones frescos o congelados",
+                "Aceite de dendé (aceite de palma)",
+                "Sal al gusto",
+                "Pan rallado"
+            ],
+            "steps": [
+                "Remoja los frijoles carioca en agua durante al menos 6 horas o durante toda la noche. Luego, escúrrelos y retira la piel frotándolos suavemente entre las manos.",
+                "En una licuadora o procesadora de alimentos, muele los frijoles con la cebolla y una pizca de sal hasta obtener una pasta gruesa y homogénea.",
+                "Calienta el aceite de dendé en una sartén grande a fuego medio-alto. Con una cuchara, forma pequeñas porciones de la masa de frijoles y fríelas en el aceite caliente hasta que estén doradas por ambos lados. Retira y escurre sobre papel absorbente.",
+                "En otra sartén, calienta un poco de aceite de dendé y sofríe la cebolla, el pimiento y los camarones hasta que estén cocidos. Sazona con sal al gusto.",
+                "Para montar el acarajé, corta los bollos de frijoles fritos por la mitad sin separarlos completamente, y rellénalos con la mezcla de camarones, cebolla y pimientos.",
+                "Sirve los acarajés calientes y si lo deseas, puedes acompañarlos con salsa de pimienta."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b4b53ebc2db25620eb9f",
+                "name": "brasil",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232053/countrys/wke9iiuwdnpjxzrhkpgn.jpg",
+                "slug": "brasil"
+            },
+            "duration": 90,
+            "portions": 10,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1700269565/recipes/iwrieq5mosirmvw5lsce.jpg",
+            "createdAt": "2023-11-18T01:06:06.385Z",
+            "updatedAt": "2024-01-14T17:53:29.278Z",
+            "slug": "acaraje"
+        },
+        {
+            "_id": "6558099a896204c3106d5c72",
+            "name": "coxinha",
+            "description": "la coxinha es una delicia culinaria brasileña que encanta a todos los que la prueban. esta empanadilla tiene su origen en brasil y es reconocida por su forma única que recuerda al muslo de pollo. la preparación de coxinha involucra varios pasos que culminan en una mezcla perfecta de sabores.",
+            "ingredients": [
+                "2 pechugas de pollo",
+                "1 cebolla grande, picada",
+                "2 dientes de ajo, picados",
+                "2 tazas de caldo de pollo",
+                "2 tazas de harina de trigo",
+                "2 tazas de leche",
+                "2 cucharadas de mantequilla",
+                "Sal y pimienta al gusto",
+                "Pan rallado",
+                "Aceite para freír"
+            ],
+            "steps": [
+                "Cocina las pechugas de pollo en una olla con agua hasta que estén tiernas. Luego, desmenúzalas en trozos pequeños y reserva.",
+                "En una sartén, derrite la mantequilla y agrega la cebolla y el ajo. Sofríe hasta que estén dorados.",
+                "Agrega el pollo desmenuzado a la sartén y mezcla bien. Condimenta con sal y pimienta al gusto. Deja cocinar durante unos minutos y retira del fuego.",
+                "En una olla, calienta el caldo de pollo y la leche. Cuando comience a hervir, agrega la harina de trigo y mezcla rápidamente para evitar grumos. Cocina a fuego medio-bajo, revolviendo constantemente hasta que la masa se despegue de los bordes de la olla y forme una bola.",
+                "Retira la masa del fuego y déjala enfriar un poco. Luego, toma pequeñas porciones de masa, aplánalas en la palma de tu mano y agrega una cucharada del relleno de pollo. Moldea la masa alrededor del relleno dándole forma de lágrima o de muslo de pollo.",
+                "Pasa cada coxinha por pan rallado y fríe en aceite caliente hasta que estén doradas y crujientes.",
+                "Retira del aceite y coloca las coxinhas en papel absorbente para quitar el exceso de grasa."
+            ],
+            "category": {
+                "_id": "64e3dca1f87837090882b617",
+                "name": "pollo",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031752/categories/kiaxjkikpkn9d82eohjd.jpg",
+                "slug": "pollo"
+            },
+            "country": {
+                "_id": "6529b4b53ebc2db25620eb9f",
+                "name": "brasil",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232053/countrys/wke9iiuwdnpjxzrhkpgn.jpg",
+                "slug": "brasil"
+            },
+            "duration": 60,
+            "portions": 15,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1700268442/recipes/rleeccibimuyhuatj1d1.jpg",
+            "createdAt": "2023-11-18T00:47:22.576Z",
+            "updatedAt": "2024-01-14T17:53:00.392Z",
+            "slug": "coxinha"
+        },
+        {
+            "_id": "6550e8bf20eebcd570af6ce3",
+            "name": "chilaquiles rojos",
+            "description": "los chilaquiles son un platillo mexicano lleno de sabor y tradición. esta receta de chilaquiles rojos te transportará directamente a las calles de méxico con su mezcla de tortillas fritas, salsa de tomate picante, y los sabores vibrantes de la crema, el queso y el aguacate.",
+            "ingredients": [
+                "1 paquete (200 g) de totopos de maíz (o tortillas cortadas en triángulos y fritas)",
+                "2 tazas de salsa de tomate roja",
+                "1 chile jalapeño, picado (ajústalo según tu preferencia de picante)",
+                "1 diente de ajo, picado",
+                "1/2 cucharadita de comino en polvo",
+                "1/2 cucharadita de comino en polvo",
+                "Sal al gusto",
+                "1 taza de queso fresco desmenuzado",
+                "1 aguacate, en rodajas",
+                "Crema mexicana al gusto",
+                "Cilantro fresco, picado, para decorar"
+            ],
+            "steps": [
+                "En una sartén grande, calienta un poco de aceite a fuego medio. Agrega los totopos y fríelos hasta que estén crujientes. Retira el exceso de aceite con papel absorbente y reserva.",
+                "En la misma sartén, añade el ajo y el chile jalapeño. Sofríelos por unos minutos hasta que estén fragantes.",
+                "Vierte la salsa de tomate en la sartén y agrega el comino en polvo. Cocina a fuego lento durante 10-15 minutos, sazonando con sal al gusto.",
+                "Agrega los totopos fritos a la salsa y mezcla bien para asegurarte de que estén completamente cubiertos.",
+                "Sirve los chilaquiles en un plato y espolvorea queso fresco desmenuzado por encima.",
+                "Decora con rodajas de aguacate, crema mexicana al gusto y cilantro fresco picado."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b7f83ebc2db25620ebaf",
+                "name": "mexico",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232888/countrys/wfovecda6mmhkcnear54.jpg",
+                "slug": "mexico"
+            },
+            "duration": 25,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1699801279/recipes/csjbksit1mc2eskaghue.webp",
+            "createdAt": "2023-11-12T15:01:19.799Z",
+            "updatedAt": "2024-01-14T17:52:08.344Z",
+            "slug": "chilaquiles-rojos"
+        },
+        {
+            "_id": "6550e31f62d92f58db024bf5",
+            "name": "espaguetis a la amatriciana",
+            "description": "los espaguetis a la amatriciana, un plato tradicional de la cocina italiana originario de la región de amatrice, son una oda a la sencillez y la deliciosa combinación de sabores auténticos. esta receta encarna la esencia misma de la cocina italiana, utilizando ingredientes básicos para crear una explosión de sabores que deleitarán tu paladar.",
+            "ingredients": [
+                "400 g de espaguetis",
+                "150 g de guanciale (o panceta), en cubos",
+                "1 lata (400 g) de tomate triturado",
+                "1 cucharadita de hojuelas de pimiento rojo (ají) (ajuste según tu preferencia de picante)",
+                "1 cucharadita de aceite de oliva",
+                "Sal y pimienta al gusto",
+                "Queso pecorino rallado para servir"
+            ],
+            "steps": [
+                "Cocina los espaguetis en agua con sal siguiendo las instrucciones del paquete hasta que estén al dente.",
+                "Mientras se cocinan los espaguetis, calienta el aceite de oliva en una sartén grande a fuego medio. Agrega el guanciale y cocina hasta que esté crujiente.",
+                "Añade las hojuelas de pimiento rojo al guanciale y saltea durante unos minutos.",
+                "Vierte el tomate triturado en la sartén y cocina a fuego lento durante 15-20 minutos, sazonando con sal y pimienta al gusto.",
+                "Cuando los espaguetis estén listos, escúrrelos y agrégales la salsa amatriciana, asegurándote de que estén bien cubiertos.",
+                "Sirve los espaguetis a la amatriciana con queso pecorino rallado por encima."
+            ],
+            "category": {
+                "_id": "64e3d315f87837090882b5f7",
+                "name": "pastas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032199/categories/w61jjta0f6shho2tghu4.png",
+                "slug": "pastas"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 30,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1699799839/recipes/p6puwqdsg6xnkhyotll2.jpg",
+            "createdAt": "2023-11-12T14:37:19.843Z",
+            "updatedAt": "2024-01-14T17:51:25.383Z",
+            "slug": "espaguetis-a-la-amatriciana"
+        },
+        {
+            "_id": "65430e33526d23f5a8591a8d",
+            "name": "frappé de café",
+            "description": "el frappé de café es una refrescante bebida helada perfecta para disfrutar en cualquier momento del día. con su mezcla equilibrada de café, hielo y crema batida, es una delicia para los amantes del café y los sabores refrescantes.",
+            "ingredients": [
+                "2 tazas de café fuerte preparado y enfriado",
+                "1 taza de cubitos de hielo",
+                "1/4 taza de leche (se puede usar leche regular, de almendras o de coco)",
+                "2 cucharadas de azúcar o jarabe de vainilla (ajustar al gusto)",
+                "Crema batida (opcional)",
+                "Jarabe de chocolate o caramelo (opcional, para decorar)"
+            ],
+            "steps": [
+                "Prepara el café fuerte y déjalo enfriar. Puedes refrigerarlo para acelerar el proceso.",
+                "En una licuadora, agrega el café enfriado, los cubitos de hielo, la leche y el azúcar o jarabe de vainilla.",
+                "Mezcla todos los ingredientes en la licuadora a alta velocidad hasta obtener una consistencia suave y cremosa.",
+                "Prueba la mezcla y ajusta el dulzor o la consistencia añadiendo más azúcar, hielo o leche si es necesario.",
+                "Sirve la bebida en un vaso alto.",
+                "Opcionalmente, decora la parte superior con crema batida y un chorrito de jarabe de chocolate o caramelo.",
+                "¡Disfruta de tu refrescante Frappé de Café!"
+            ],
+            "category": {
+                "_id": "64e63361f07a623d0f12cac5",
+                "name": "dulces y repostería",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701034293/categories/n6czmh1f6ka9avi1eykv.jpg",
+                "slug": "dulces-y-reposteria"
+            },
+            "duration": 5,
+            "portions": 2,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1698893363/recipes/hoqoh9nwuend6mj4rxxq.jpg",
+            "createdAt": "2023-11-02T02:49:23.611Z",
+            "updatedAt": "2024-01-14T17:50:54.579Z",
+            "slug": "frappe-de-cafe"
+        },
+        {
+            "_id": "653b2615ff3a2e4375964439",
+            "name": "tostadas mexicanas",
+            "description": "las tostadas mexicanas son un platillo tradicional mexicano que combina sabores y texturas frescas y deliciosas. consisten en tortillas crujientes, generalmente de maíz, cubiertas con frijoles refritos, vegetales frescos, carne o pollo desmenuzado, queso, crema y salsa. son una comida versátil y personalizable que se disfruta en todo méxico.",
+            "ingredients": [
+                "Tostadas (puedes comprarlas en la tienda o hacerlas caseras)",
+                "1 lata de frijoles refritos",
+                "2 tazas de lechuga, picada",
+                "1 taza de tomate, picado en cubos pequeños",
+                "1 taza de aguacate, picado en cubos",
+                "1 taza de queso rallado (opcional)",
+                "1/2 taza de crema agria (opcional)",
+                "Salsa (salsa roja, salsa verde o tu salsa favorita)",
+                "Sal y pimienta al gusto",
+                "Carne molida cocida o pollo desmenuzado (opcional)"
+            ],
+            "steps": [
+                "Si vas a preparar las tostadas en casa, calienta aceite en una sartén y fría las tortillas de maíz hasta que estén doradas y crujientes. Escúrrelas en papel absorbente.",
+                "Calienta los frijoles refritos en una cacerola pequeña a fuego medio-bajo. Agrega un poco de agua si es necesario para que los frijoles tengan la consistencia deseada.",
+                "Prepara todos los ingredientes para los toppings: pica la lechuga, el tomate y el aguacate. Si estás utilizando carne o pollo, asegúrate de que estén cocidos y desmenuzados.",
+                "Extiende una capa de frijoles refritos sobre cada tostada.",
+                "Agrega los ingredientes a tu gusto. Puedes poner lechuga, tomate, aguacate, carne molida o pollo desmenuzado, queso rallado y crema agria.",
+                "Rocía un poco de salsa sobre cada tostada. Puedes usar salsa roja, salsa verde u otra salsa de tu elección. Ajusta la cantidad de salsa según tu nivel de picante deseado.",
+                "Sazona con sal y pimienta al gusto.",
+                "Sirve tus tostadas mexicanas inmediatamente. ¡Disfruta de este delicioso platillo!"
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b7f83ebc2db25620ebaf",
+                "name": "mexico",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232888/countrys/wfovecda6mmhkcnear54.jpg",
+                "slug": "mexico"
+            },
+            "duration": 30,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1698375188/recipes/znfuds2mlyybugwh7t0w.webp",
+            "createdAt": "2023-10-27T02:53:09.695Z",
+            "updatedAt": "2024-01-14T17:50:03.333Z",
+            "slug": "tostadas-mexicanas"
+        },
+        {
+            "_id": "653b011f710df63c2d7da329",
+            "name": "pollo sudado",
+            "description": "el pollo sudado es un plato tradicional latinoamericano que combina sabores intensos y suculentos con una preparación sencilla. este plato se caracteriza por la jugosidad del pollo y la intensidad de su salsa, que es una mezcla de tomate, cebolla, ajo y hierbas aromáticas. el pollo sudado es perfecto para una comida familiar reconfortante o para sorprender a tus invitados con los sabores auténticos de la cocina casera.",
+            "ingredients": [
+                "1 pollo entero, cortado en piezas",
+                "2 cucharadas de aceite de oliva",
+                "2 cebollas grandes, picadas en trozos pequeños",
+                "4 dientes de ajo, picados finamente",
+                "4 tomates maduros, pelados y picados en cubos",
+                "2 zanahorias, peladas y cortadas en rodajas",
+                "1 pimiento rojo, cortado en tiras",
+                "1 pimiento verde, cortado en tiras",
+                "1 cucharadita de comino",
+                "1 cucharadita de orégano seco",
+                "1 cucharadita de paprika",
+                "Sal y pimienta al gusto",
+                "1 taza de caldo de pollo",
+                "Hojas de laurel (opcional)",
+                "Perejil fresco picado para decorar"
+            ],
+            "steps": [
+                "En una olla grande, calienta el aceite de oliva a fuego medio. Agrega las cebollas y los ajos y saltea hasta que estén dorados y fragantes.",
+                "Añade el pollo y dora las piezas por todos lados, sazona con sal, pimienta, comino, orégano y paprika.",
+                "Incorpora los tomates y revuelve bien. Deja cocinar por unos minutos hasta que los tomates comiencen a ablandarse.",
+                "Agrega las zanahorias y los pimientos. Mezcla todo y vierte el caldo de pollo sobre la mezcla. Puedes agregar hojas de laurel si lo deseas.",
+                "Reduce el fuego a bajo, cubre la olla y cocina a fuego lento durante 30-40 minutos o hasta que el pollo esté bien cocido y tierno.",
+                "Prueba la salsa y ajusta el sazón según tus preferencias personales.",
+                "Sirve el Pollo Sudado caliente, espolvoreado con perejil fresco picado. Puedes acompañarlo de arroz, papas cocidas o yuca."
+            ],
+            "category": {
+                "_id": "64e3dca1f87837090882b617",
+                "name": "pollo",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031752/categories/kiaxjkikpkn9d82eohjd.jpg",
+                "slug": "pollo"
+            },
+            "duration": 60,
+            "portions": 6,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1698365726/recipes/bq0lnxexlz4uqr3orxvs.jpg",
+            "createdAt": "2023-10-27T00:15:27.458Z",
+            "updatedAt": "2024-01-14T17:49:32.697Z",
+            "slug": "pollo-sudado"
+        },
+        {
+            "_id": "653aa38e75096e8e362a47a1",
+            "name": "ensalada fría de pollo y papas",
+            "description": "la ensalada fría de pollo y papas es una opción refrescante y deliciosa para los días calurosos. combina la suavidad del pollo con la textura firme de las papas, todo cubierto con un aderezo cremoso y refrescante. es ideal para picnics, comidas al aire libre o como un plato fresco en cualquier momento.",
+            "ingredients": [
+                "2 pechugas de pollo cocidas y desmenuzadas",
+                "4 papas, cocidas y cortadas en cubos",
+                "1/2 taza de apio, picado",
+                "1/2 taza de cebolla roja, picada",
+                "1/2 taza de mayonesa",
+                "2 cucharadas de mostaza",
+                "1 cucharada de vinagre de vino tinto",
+                "1 cucharadita de azúcar",
+                "Sal y pimienta al gusto",
+                "Perejil fresco, picado, para decorar"
+            ],
+            "steps": [
+                "En un tazón grande, mezcla las papas cocidas, el apio y la cebolla.",
+                "En otro tazón, combina la mayonesa, la mostaza, el vinagre de vino tinto, el azúcar, la sal y la pimienta para hacer el aderezo.",
+                "Agrega el pollo desmenuzado al tazón con las papas, el apio y la cebolla.",
+                "Vierte el aderezo sobre la mezcla de pollo y papas y revuelve suavemente para que todos los ingredientes queden bien cubiertos.",
+                "Refrigera la ensalada durante al menos una hora para que los sabores se mezclen y para que esté bien fría al servirla.",
+                "Antes de servir, decora con perejil fresco picado."
+            ],
+            "category": {
+                "_id": "64e3dad8f87837090882b60f",
+                "name": "ensaladas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701033857/categories/pg9m40sd6ibhshb7wjvf.webp",
+                "slug": "ensaladas"
+            },
+            "duration": 60,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1698341774/recipes/vqgoenaveznhav69vi1p.jpg",
+            "createdAt": "2023-10-26T17:36:14.671Z",
+            "updatedAt": "2024-01-14T17:48:50.170Z",
+            "slug": "ensalada-fria-de-pollo-y-papas"
+        },
+        {
+            "_id": "653a95cbe76e70b1443c9c95",
+            "name": "risotto de champiñones",
+            "description": "el risotto de champiñones es un plato de origen italiano que ha conquistado el paladar de muchas partes del mundo. este exquisito y cremoso risotto combina la suavidad del arroz arborio con el profundo sabor umami de los champiñones. es una opción culinaria versátil que se puede disfrutar como un plato principal reconfortante o como un acompañamiento sofisticado. su mezcla de texturas y sabores, junto con la simplicidad de sus ingredientes, lo convierte en una elección popular para cualquier ocasión.",
+            "ingredients": [
+                "2 tazas de arroz Arborio",
+                "1 cucharada de aceite de oliva",
+                "1 cucharada de mantequilla",
+                "1 cebolla, finamente picada",
+                "2 dientes de ajo, picados",
+                "200 g de champiñones, cortados en láminas",
+                "1/2 taza de vino blanco",
+                "4 tazas de caldo de verduras, caliente",
+                "1/2 taza de queso parmesano, rallado",
+                "Sal y pimienta al gusto",
+                "Perejil fresco, picado, para decorar"
+            ],
+            "steps": [
+                "En una olla grande, calienta el aceite de oliva y la mantequilla a fuego medio. Agrega la cebolla y el ajo, y saltea hasta que estén tiernos y fragantes.",
+                "Añade los champiñones y saltea hasta que se doren y liberen su jugo, aproximadamente durante 5 minutos.",
+                "Agrega el arroz Arborio a la olla y revuelve para que se mezcle con los ingredientes, cocinándolo ligeramente hasta que los granos estén translúcidos.",
+                "Vierte el vino blanco en la olla y cocina, revolviendo ocasionalmente, hasta que el vino se haya evaporado por completo.",
+                "Comienza a agregar el caldo de verduras caliente, una taza a la vez, y sigue revolviendo de manera constante. Espera a que el líquido se absorba antes de añadir más. Continúa este proceso hasta que el arroz esté cocido y haya alcanzado una textura cremosa, lo que tomará alrededor de 18-20 minutos.",
+                "Retira la olla del fuego y mezcla el queso parmesano, asegurándote de que se integre completamente en el risotto. Añade sal y pimienta al gusto.",
+                "Sirve el Risotto de Champiñones en platos individuales, espolvorea con perejil fresco picado y, si lo deseas, agrega un poco más de queso parmesano."
+            ],
+            "category": {
+                "_id": "6529f9d8311a4af3d8762f3f",
+                "name": "arroz",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697249752/categories/a2k9ht25kl8v5aqf4qyc.jpg",
+                "slug": "arroz"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 40,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1698338251/recipes/dqsa7vdrvot5zggmckyv.jpg",
+            "createdAt": "2023-10-26T16:37:31.749Z",
+            "updatedAt": "2024-01-14T17:47:52.677Z",
+            "slug": "risotto-de-champinones"
+        },
+        {
+            "_id": "6539d2f89dc1b078f3f550c8",
+            "name": "tiramisú",
+            "description": "el tiramisú, una joya de la repostería italiana, es un postre clásico que deleita a los paladares con su exquisita combinación de texturas y sabores. este dulce, que se ha ganado un lugar especial en la cocina internacional, se caracteriza por su suave y cremosa consistencia que se funde delicadamente en la boca.",
+            "ingredients": [
+                "6 yemas de huevo",
+                "3/4 de taza de azúcar",
+                "1 taza de queso mascarpone",
+                "1 1/2 tazas de café fuerte, enfriado",
+                "1 paquete de bizcochos de soletilla (o ladyfingers)",
+                "2 cucharaditas de cacao en polvo sin azúcar",
+                "1/4 de taza de licor de café (opcional)",
+                "Una pizca de sal"
+            ],
+            "steps": [
+                "En un tazón grande, bate las yemas de huevo con el azúcar hasta que la mezcla esté pálida y espesa.",
+                "Agrega el queso mascarpone y mezcla hasta que esté suave y bien combinado.",
+                "En otro tazón, vierte el café y el licor de café si lo estás usando.",
+                "Sumerge los bizcochos de soletilla brevemente en el café. No los dejes demasiado tiempo, solo lo suficiente para que se humedezcan un poco.",
+                "Coloca una capa de los bizcochos humedecidos en el fondo de un recipiente apto para horno.",
+                "Extiende la mitad de la mezcla de mascarpone sobre los bizcochos.",
+                "Repite el proceso con otra capa de bizcochos y la mezcla de mascarpone.",
+                "Cubre con una capa de cacao en polvo.",
+                "Refrigera durante al menos 4 horas o toda la noche para que los sabores se mezclen."
+            ],
+            "category": {
+                "_id": "64e63361f07a623d0f12cac5",
+                "name": "dulces y repostería",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701034293/categories/n6czmh1f6ka9avi1eykv.jpg",
+                "slug": "dulces-y-reposteria"
+            },
+            "duration": 240,
+            "portions": 8,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1698288375/recipes/yrrc6u2wdwxb8fehsvtw.webp",
+            "createdAt": "2023-10-26T02:46:16.802Z",
+            "updatedAt": "2024-01-14T17:30:19.791Z",
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "slug": "tiramisu"
+        },
+        {
+            "_id": "65354d5fef4456fe78e9c5c6",
+            "name": "mousse de chocolate",
+            "description": "el mousse de chocolate es un sublime y tentador postre que eleva el arte del chocolate a su máxima expresión. esta exquisita creación culinaria es un auténtico deleite para los amantes del chocolate y una verdadera joya en el mundo de la repostería. su textura suave y delicada, combinada con el sabor intenso y embriagador del chocolate, hace que cada cucharada sea un viaje sensorial inolvidable.",
+            "ingredients": [
+                "200 g de chocolate semidulce",
+                "3 huevos",
+                "2 cucharadas de azúcar",
+                "1 taza de nata líquida (crema de leche)",
+                "1 cucharadita de esencia de vainilla",
+                "Una pizca de sal"
+            ],
+            "steps": [
+                "Rompe el chocolate en trozos pequeños y colócalos en un recipiente resistente al calor.",
+                "Derrite el chocolate a baño maría o en el microondas en intervalos de 30 segundos, revolviendo entre cada intervalo hasta que esté completamente derretido y suave.",
+                "Separa las claras de las yemas de los huevos en dos recipientes diferentes.",
+                "Agrega una pizca de sal a las claras y bátelas a punto de nieve, es decir, hasta que estén firmes.",
+                "En un recipiente aparte, bate las yemas con el azúcar hasta que obtengas una mezcla espumosa.",
+                "Añade la esencia de vainilla a la mezcla de yemas.",
+                "Vierte el chocolate derretido sobre las yemas y mezcla hasta que estén bien combinados.",
+                "Con cuidado, incorpora las claras batidas a la mezcla de chocolate, realizando movimientos suaves y envolventes para que la mousse quede esponjosa.",
+                "En otro recipiente, bate la nata líquida (crema de leche) hasta que esté semimontada.",
+                "Agrega la nata (crema de leche) a la mezcla de chocolate y claras, y mezcla con delicadeza.",
+                "Divide la mezcla en copas individuales o en un tazón grande.",
+                "Refrigera durante al menos 2 horas para que la mousse tome consistencia.",
+                "Sirve el Mousse de Chocolate adornado con ralladura de chocolate, frutas o nata montada (crema batida), si lo deseas."
+            ],
+            "category": {
+                "_id": "64e63361f07a623d0f12cac5",
+                "name": "dulces y repostería",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701034293/categories/n6czmh1f6ka9avi1eykv.jpg",
+                "slug": "dulces-y-reposteria"
+            },
+            "duration": 140,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697992655/recipes/tq8w8hvo6d5ov42t9vgy.avif",
+            "createdAt": "2023-10-22T16:27:11.311Z",
+            "updatedAt": "2024-01-14T17:29:22.381Z",
+            "slug": "mousse-de-chocolate"
+        },
+        {
+            "_id": "653150133c1c70872399cc43",
+            "name": "albóndigas de carne en salsa de tomate",
+            "description": "sumérgete en la riqueza de la tradición culinaria con esta receta clásica de albóndigas de carne en salsa de tomate. es un plato que trasciende las generaciones, evocando recuerdos de comidas caseras y el cálido abrazo de la cocina de la abuela. las albóndigas, elaboradas con una mezcla de carne molida, pan rallado y una selección de sabrosos ingredientes, se cocinan a la perfección. su textura es tierna y jugosa, y su sabor es simplemente inigualable.",
+            "ingredients": [
+                "500 g de carne molida (res o cerdo)",
+                "1/2 taza de pan rallado",
+                "1/4 taza de leche",
+                "1 huevo",
+                "1 cebolla, picada finamente",
+                "2 dientes de ajo, picados",
+                "1/4 taza de perejil fresco, picado",
+                "Sal y pimienta al gusto",
+                "2 tazas de salsa de tomate",
+                " aceite de oliva",
+                "/2 taza de caldo de res o pollo",
+                "1 hoja de laurel",
+                "1/2 cucharadita de azúcar",
+                "1/2 cucharadita de orégano seco"
+            ],
+            "steps": [
+                "En un tazón grande, combina la carne molida, el pan rallado, la leche, el huevo, la cebolla, el ajo y el perejil. Mezcla bien y sazona con sal y pimienta al gusto.",
+                "Forma albóndigas del tamaño de una nuez con la mezcla de carne y colócalas en un plato.",
+                "Calienta el aceite de oliva en una sartén grande a fuego medio. Agrega las albóndigas y cocínalas hasta que estén doradas por todos lados.",
+                "Agrega la salsa de tomate, el caldo de res o pollo, la hoja de laurel, el azúcar y el orégano a la sartén. Reduce el fuego a bajo, tapa y cocina durante 20-30 minutos, o hasta que las albóndigas estén cocidas y la salsa se haya espesado.",
+                "Sirve las albóndigas de carne en salsa de tomate caliente, acompañadas de pasta o arroz, si lo deseas."
+            ],
+            "category": {
+                "_id": "64e3dbf5f87837090882b613",
+                "name": "carne",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031304/categories/m5gcsk5syuvnjsymoowj.jpg",
+                "slug": "carne"
+            },
+            "duration": 60,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697730578/recipes/jh64t2y0dcrayznctudj.webp",
+            "createdAt": "2023-10-19T15:49:39.425Z",
+            "updatedAt": "2024-01-14T17:28:33.418Z",
+            "slug": "albondigas-de-carne-en-salsa-de-tomate"
+        },
+        {
+            "_id": "6530294a87a9a2ffaf99fa72",
+            "name": "milanesa a la napolitana",
+            "description": "la milanesa a la napolitana es un plato argentino clásico que combina la técnica de la milanesa con elementos de la cocina italiana, creando una experiencia culinaria reconfortante y deliciosa. la base de este plato es una fina rebanada de carne empanada, que puede ser de res, cerdo o pollo. las milanesas se sazonan con sal y pimienta, se empanan en harina, huevo batido y pan rallado, y luego se fríen hasta que estén doradas y crujientes.",
+            "ingredients": [
+                "4 filetes de carne (res, cerdo o pollo)",
+                "Sal y pimienta al gusto",
+                "Harina para empanar",
+                "2 huevos batidos",
+                "Pan rallado",
+                "4 lonchas de jamón cocido",
+                "4 lonchas de queso mozzarella o queso suizo",
+                "Aceite vegetal para freír",
+                "Salsa de tomate (casera o comprada)"
+            ],
+            "steps": [
+                " Para comenzar, aplanar los filetes de carne entre dos hojas de papel pergamino o envueltos en plástico. Esto asegura que las milanesas queden delgadas y tiernas. Sazonar las milanesas con sal y pimienta al gusto.",
+                "Pasar las milanesas por harina, cubriéndolas completamente.",
+                "Luego, sumergirlas en huevo batido, asegurándote de que estén bien cubiertas.",
+                "Finalmente, recubrir las milanesas con pan rallado, presionando ligeramente para que el pan rallado se adhiera a la carne.",
+                "En una sartén grande, calentar suficiente aceite vegetal a fuego medio-alto.",
+                "Freír las milanesas empanadas en el aceite caliente hasta que estén doradas y crujientes, aproximadamente de 3 a 4 minutos por cada lado.",
+                "Retirar las milanesas del aceite y colocarlas sobre papel absorbente para eliminar el exceso de aceite.",
+                "Precalentar el horno a 180°C (350°F).",
+                "Colocar una loncha de jamón cocido sobre cada milanesa.",
+                "Luego, colocar una loncha de queso mozzarella o queso suizo sobre el jamón.",
+                "Colocar las milanesas con el jamón y el queso en una bandeja para horno.",
+                "Hornear hasta que el queso esté derretido y dorado, lo que generalmente toma alrededor de 10 minutos.",
+                "Servir las Milanesas a la Napolitana caliente, con una generosa porción de salsa de tomate por encima para rematar."
+            ],
+            "category": {
+                "_id": "64e3dbf5f87837090882b613",
+                "name": "carne",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031304/categories/m5gcsk5syuvnjsymoowj.jpg",
+                "slug": "carne"
+            },
+            "country": {
+                "_id": "6529b50f3ebc2db25620eba6",
+                "name": "argentina",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232143/countrys/oyxhr16sfjrjmwv957pt.jpg",
+                "slug": "argentina"
+            },
+            "duration": 45,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697655113/recipes/erqihtf0e8asn3koruaa.jpg",
+            "createdAt": "2023-10-18T18:51:54.710Z",
+            "updatedAt": "2024-01-14T17:27:38.270Z",
+            "slug": "milanesa-a-la-napolitana"
+        },
+        {
+            "_id": "652f46d17906f4e5b8d29360",
+            "name": "patacones o tostones",
+            "description": "los patacones, también conocidos como tostones en algunos lugares, son una deliciosa y crujiente especialidad de la cocina latinoamericana. este plato se elabora a partir de plátanos verdes, que se pelan, cortan en pedazos y luego se fríen dos veces para lograr una textura crujiente por fuera y suave por dentro. los patacones son un popular aperitivo, guarnición o incluso un plato principal en muchos países de américa latina, y su preparación puede variar ligeramente según la región",
+            "ingredients": [
+                "4 plátanos verdes",
+                "Aceite vegetal para freír",
+                "Sal al gusto"
+            ],
+            "steps": [
+                "Pelar los plátanos verdes y cortarlos en pedazos de aproximadamente 1 pulgada de grosor.",
+                "Calentar suficiente aceite vegetal en una sartén grande a fuego medio-alto. Debe ser lo suficientemente profundo para sumergir los pedazos de plátano.",
+                "Cuando el aceite esté caliente , agregar los pedazos de plátano en lotes. Asegúrate de no llenar demasiado la sartén para que los pedazos se frían de manera uniforme.",
+                "Freír los pedazos de plátano hasta que estén dorados y crujientes, aproximadamente 2-3 minutos por cada lado.",
+                "Retirar los pedazos de plátano fritos y colocarlos sobre toallas de papel para eliminar el exceso de aceite.",
+                "Con la ayuda de un aplastador de patacones o tostones o una superficie plana, aplastar cada pedazo de plátano frito hasta que tenga un grosor de aproximadamente 1/2 pulgada.",
+                "Volver a freír los pedazos de plátano aplanados en el aceite caliente durante otros 2-3 minutos por cada lado, o hasta que estén dorados y crujientes.",
+                "Retirar los patacones del aceite y escurrir el exceso de aceite en toallas de papel.",
+                "Espolvorear sal al gusto sobre los patacones mientras aún estén calientes."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "duration": 30,
+            "portions": 4,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697597136/recipes/fgfyalonjkzbpij5jnnr.jpg",
+            "createdAt": "2023-10-18T02:45:37.082Z",
+            "updatedAt": "2024-01-14T17:26:54.433Z",
+            "slug": "patacones-o-tostones"
+        },
+        {
+            "_id": "652c9ab7640e5829045e3d35",
+            "name": "quesadillas",
+            "description": "las quesadillas son una exquisitez de la cocina mexicana que ha conquistado corazones en todo el mundo. su simplicidad y sabor inigualable las convierten en un platillo versátil y delicioso. estas deliciosas creaciones culinarias consisten en tortillas de maíz o harina, dobladas con amor y rellenas de queso derretido, aunque sus posibilidades no tienen límites. puedes ser creativo y personalizarlas con una amplia gama de ingredientes adicionales, como pollo desmenuzado, carne asada, champiñones, espinacas, pimientos, o cualquier otro ingrediente de tu elección.",
+            "ingredients": [
+                "4 tortillas de maíz o harina",
+                "1 taza de queso rallado (queso cheddar, Oaxaca, Monterrey Jack o queso similar)",
+                "Relleno opcional: pollo desmenuzado, carne asada, champiñones, espinacas, pimientos, etc.",
+                "Aceite vegetal (para cocinar)"
+            ],
+            "steps": [
+                "Precalienta una sartén grande a fuego medio.",
+                "Si decides agregar un relleno, cocínalo primero en la sartén con un poco de aceite hasta que esté tierno y bien cocido. Luego, retira el relleno de la sartén y resérvalo.",
+                "En la misma sartén, agrega unas gotas de aceite y coloca una tortilla.",
+                "Espolvorea una cuarta parte del queso rallado sobre la mitad de la tortilla.",
+                "Si deseas, agrega una porción de tu relleno preferido sobre el queso.",
+                "Doble la otra mitad de la tortilla sobre el queso y el relleno, creando una semicircunferencia.",
+                "Cocina durante unos minutos o hasta que la parte inferior de la quesadilla esté dorada y crujiente.",
+                "Con una espátula, gira la quesadilla con cuidado y cocina el otro lado hasta que esté dorado y el queso se haya derretido.",
+                "Repite el proceso para hacer el resto de las quesadillas."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b7f83ebc2db25620ebaf",
+                "name": "mexico",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697232888/countrys/wfovecda6mmhkcnear54.jpg",
+                "slug": "mexico"
+            },
+            "duration": 20,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697422006/recipes/fpmkfvnqujtdvyegwfxm.jpg",
+            "createdAt": "2023-10-16T02:06:47.018Z",
+            "updatedAt": "2024-01-14T17:26:14.467Z",
+            "portions": 4,
+            "slug": "quesadillas"
+        },
+        {
+            "_id": "652c540a21ebcb21a706d535",
+            "name": "pasta primavera",
+            "description": "la pasta primavera es un plato italiano que celebra la frescura y la abundancia de las verduras de primavera. es una receta sencilla pero deliciosa que combina fideos con una mezcla de verduras frescas, ajo, aceite de oliva y hierbas aromáticas. esta comida es ligera, saludable y llena de color, perfecta para dar la bienvenida a la temporada primaveral con sabor y alegría en cada bocado.",
+            "ingredients": [
+                "250 gramos de pasta (preferiblemente spaghetti o fettuccine)",
+                "2 cucharadas de aceite de oliva extra virgen",
+                "2 dientes de ajo, picados finamente",
+                "1 taza de brócoli, cortado en floretes pequeños",
+                "1 taza de zanahorias, en rodajas finas",
+                "1 taza de guisantes verdes",
+                "1 taza de tomates cherry, cortados por la mitad",
+                "1/4 de taza de hojas de albahaca fresca, picadas",
+                "Sal y pimienta negra al gusto",
+                "Queso Parmesano rallado, para servir"
+            ],
+            "steps": [
+                "Cocina la pasta en una olla grande de agua hirviendo con sal hasta que esté al dente. Luego, escúrrela y reserva una taza del agua de cocción.",
+                "Mientras se cocina la pasta, calienta el aceite de oliva en una sartén grande a fuego medio. Agrega el ajo picado y saltea durante unos segundos hasta que esté fragante.",
+                "grega el brócoli, las zanahorias y los guisantes a la sartén. Cocina las verduras durante unos minutos hasta que estén tiernas pero aún crujientes.",
+                "Añade los tomates cherry a la sartén y cocina durante unos minutos adicionales hasta que comiencen a ablandarse.",
+                "Agrega las hojas de albahaca picadas y revuelve para combinar.",
+                "Incorpora la pasta cocida en la sartén con las verduras. Agrega un poco del agua de cocción reservada para crear una salsa ligera.",
+                "Sazona con sal y pimienta al gusto y revuelve bien para que la pasta y las verduras estén bien mezcladas.",
+                "Sirve caliente, espolvoreando queso Parmesano rallado por encima."
+            ],
+            "category": {
+                "_id": "64e3d315f87837090882b5f7",
+                "name": "pastas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032199/categories/w61jjta0f6shho2tghu4.png",
+                "slug": "pastas"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 25,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697403913/recipes/wiqcwtzfkphycep3zmfy.jpg",
+            "createdAt": "2023-10-15T21:05:14.189Z",
+            "updatedAt": "2024-01-15T03:03:19.396Z",
+            "portions": 3,
+            "slug": "pasta-primavera"
+        },
+        {
+            "_id": "652c4ff121ebcb21a706d518",
+            "name": "spaghetti carbonara",
+            "description": "la spaghetti carbonara es un plato tradicional italiano que combina la simplicidad de los ingredientes con un sabor rico y reconfortante. con una base de pasta, huevos, queso pecorino romano, panceta crujiente y pimienta negra molida, este plato es un verdadero clásico que se disfruta en todo el mundo. la salsa se crea de manera única, utilizando el calor residual de la pasta para crear una emulsión cremosa y deliciosa que envuelve cada hebra de spaghetti. la carbonara es perfecta para cualquier ocasión y te transportará a la auténtica italia en cada bocado.",
+            "ingredients": [
+                "250 gramos de spaghetti",
+                "100 gramos de panceta o guanciale, cortados en trozos pequeños",
+                "2 huevos",
+                "1 taza de queso Pecorino Romano rallado",
+                "Pimienta negra recién molida, al gusto",
+                "Sal al gusto"
+            ],
+            "steps": [
+                "Hierve agua en una olla grande y añade sal. Cocina los spaghetti según las instrucciones del paquete hasta que estén al dente. Luego, escúrrelos y reserva aproximadamente una taza del agua de cocción.",
+                "Mientras se cuecen los spaghetti, en una sartén grande y profunda, dora la panceta o guanciale a fuego medio-alto hasta que estén crujientes y dorados. Luego, retira del fuego y escurre el exceso de grasa.",
+                "En un tazón grande, bate los huevos y mezcla con la mitad del queso Pecorino Romano y pimienta negra al gusto.",
+                "Agrega los spaghetti cocidos a la sartén con la panceta crujiente y revuelve para combinar.",
+                "Inmediatamente, agrega la mezcla de huevo y queso al spaghetti, revolviendo rápidamente. Añade un poco del agua de cocción reservada para ayudar a crear una salsa cremosa. Asegúrate de hacerlo fuera del fuego para evitar que los huevos se cocinen demasiado.",
+                "Espolvorea con el queso Pecorino Romano restante y más pimienta negra recién molida antes de servir."
+            ],
+            "category": {
+                "_id": "64e3d315f87837090882b5f7",
+                "name": "pastas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032199/categories/w61jjta0f6shho2tghu4.png",
+                "slug": "pastas"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 20,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697402865/recipes/vpktixjdc42hclzqxyae.jpg",
+            "createdAt": "2023-10-15T20:47:45.847Z",
+            "updatedAt": "2024-01-14T17:25:28.379Z",
+            "portions": 2,
+            "slug": "spaghetti-carbonara"
+        },
+        {
+            "_id": "652c4bafd8b0470aa46e4f3a",
+            "name": "fettuccine alfredo",
+            "description": "el fettuccine alfredo es un plato clásico de la cocina italiana que te transporta a la riqueza de la toscana con cada bocado. esta deliciosa receta combina fideos cremosos con una salsa sedosa y queso parmesano recién rallado, creando una experiencia culinaria que es pura indulgencia. perfecta para una cena elegante o simplemente para darte un capricho en cualquier ocasión, el fettuccine alfredo es un manjar inigualable que seguramente se convertirá en uno de tus platos favoritos.",
+            "ingredients": [
+                "250 gramos de fettuccine",
+                "1/2 taza de mantequilla",
+                "1 taza de crema espesa",
+                "1 taza de queso Parmesano rallado",
+                "2 dientes de ajo, picados finamente",
+                "Sal y pimienta al gusto",
+                "Una pizca de nuez moscada (opcional)",
+                "Perejil fresco, para decorar"
+            ],
+            "steps": [
+                "En una olla grande, hierve agua con sal y cocina los fettuccine según las instrucciones del paquete hasta que estén al dente. Luego, escúrrelos y reserva.",
+                "En una sartén grande, derrite la mantequilla a fuego medio. Agrega el ajo picado y sofríelo hasta que esté fragante y ligeramente dorado.",
+                "Vierte la crema espesa en la sartén con la mantequilla y el ajo, revolviendo constantemente. Cocina a fuego medio hasta que la crema comience a hervir.",
+                "Reduzca el fuego a bajo y agregue gradualmente el queso Parmesano rallado, revolviendo constantemente hasta que la salsa se vuelva espesa y el queso se haya derretido completamente. Si lo deseas, agrega una pizca de nuez moscada para realzar el sabor.",
+                "Sazona la salsa con sal y pimienta al gusto.",
+                "Añade los fettuccine cocidos a la sartén con la salsa Alfredo y mezcla bien para asegurarte de que la pasta esté completamente cubierta.",
+                "Sirve caliente, espolvoreando un poco de perejil fresco por encima para darle un toque de frescura."
+            ],
+            "category": {
+                "_id": "64e3d315f87837090882b5f7",
+                "name": "pastas",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032199/categories/w61jjta0f6shho2tghu4.png",
+                "slug": "pastas"
+            },
+            "country": {
+                "_id": "6529b37b3ebc2db25620eb98",
+                "name": "italia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231739/countrys/jfxvlshscpc0o4j3geww.jpg",
+                "slug": "italia"
+            },
+            "duration": 25,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697401775/recipes/fejmvmu8zuxjmhteujpz.webp",
+            "createdAt": "2023-10-15T20:29:35.870Z",
+            "updatedAt": "2024-01-14T17:24:35.315Z",
+            "portions": 2,
+            "slug": "fettuccine-alfredo"
+        },
+        {
+            "_id": "652b5568ec9ddb62b28370e3",
+            "name": "frijoles colombianos",
+            "description": "la cocina colombiana es una celebración de sabores intensos y variados que se mezclan para crear platos deliciosos y reconfortantes. entre los platillos más emblemáticos se encuentran los frijoles colombianos, un alimento que es mucho más que un simple acompañamiento. estos frijoles son la base de una receta tradicional que combina elementos dulces y salados, y que se enriquece aún más con la adición de plátano y chicharrón",
+            "ingredients": [
+                "2 tazas de frijoles (pueden ser frijoles rojos, negros o pintos)",
+                "Agua para remojar",
+                "1 cebolla grande, picada finamente",
+                "2 dientes de ajo, picados",
+                "2 cucharadas de aceite de cocina",
+                "1 cucharadita de comino molido",
+                "Sal al gusto",
+                "Pimienta al gusto",
+                "Plátano (maduro o verde) en cuadritos",
+                "Chicharrón (trozos crujientes de cerdo)",
+                "hoja de Laurel (opcional)"
+            ],
+            "steps": [
+                "Comienza por enjuagar los frijoles bajo agua fría para eliminar cualquier impureza. Luego, colócalos en un recipiente grande y cúbrelas con agua. Deja que los frijoles se remojen durante toda la noche o al menos 8 horas. Esto ayudará a ablandar los frijoles antes de cocinarlos.",
+                "Después del remojo, escurre y enjuaga nuevamente los frijoles. Asegúrate de eliminar el agua de remojo.",
+                "En una olla grande, calienta el aceite a fuego medio. Agrega la cebolla y el ajo picados finamente y sofríelos hasta que estén tiernos y fragantes.",
+                "Incorpora los frijoles escurridos a la olla y mézclalos con las verduras sofritas.",
+                "Añade suficiente agua para cubrir los frijoles en la olla. Agrega la hoja de laurel y el comino molido.",
+                "Lleva la mezcla a ebullición y, una vez que hierva, reduce el fuego para que los frijoles cocinen a fuego lento. Cubre la olla y cocina durante aproximadamente 1 a 1.5 horas, o hasta que los frijoles estén tiernos. Asegúrate de revisar periódicamente y agregar agua caliente si es necesario para evitar que los frijoles se sequen.",
+                "Cuando los frijoles estén tiernos, sazona con sal y pimienta al gusto.",
+                "Agrega los trozos de plátano y chicharrón a la mezcla y cocina durante unos minutos adicionales hasta que estén calientes.",
+                "Sirve los frijoles colombianos con plátano y chicharrón como acompañamiento para arroz, carne, arepas u otros platos colombianos. El plátano y el chicharrón añaden sabores y texturas complementarias a este delicioso plato."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b28c3ebc2db25620eb8a",
+                "name": "colombia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231499/countrys/uno5dujn4n9rw0qbojo7.jpg",
+                "slug": "colombia"
+            },
+            "duration": 105,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697338727/recipes/j5rnilksf8tvuuz449ls.jpg",
+            "createdAt": "2023-10-15T02:58:48.141Z",
+            "updatedAt": "2024-01-14T17:23:55.464Z",
+            "portions": 4,
+            "slug": "frijoles-colombianos"
+        },
+        {
+            "_id": "652b51b3ec9ddb62b28370ca",
+            "name": "caraotas negras",
+            "description": "las caraotas negras, también conocidas como frijoles negros, son un pilar en la gastronomía venezolana. este plato representa la esencia de la comida casera y la tradición culinaria del país. las caraotas negras son sabrosas, nutritivas y versátiles, y son un acompañamiento popular para muchos platos venezolanos, desde arepas hasta carne mechada. aquí te presentamos una receta básica para preparar caraotas negras en casa",
+            "ingredients": [
+                "2 tazas de caraotas negras (frijoles negros) secas",
+                "Agua para remojar",
+                "1 cebolla grande, picada finamente",
+                "1 pimiento verde, picado finamente",
+                "3 dientes de ajo, picados",
+                "aceite de cocina",
+                "1 cucharadita de comino molido",
+                "Sal al gusto",
+                "Pimienta al gusto"
+            ],
+            "steps": [
+                "omienza por preparar las caraotas negras secas. Enjuágalas bajo agua fría para eliminar cualquier impureza. Luego, colócalas en un recipiente grande y cúbrellas con agua. Deja que las caraotas se remojen durante toda la noche o al menos 8 horas. Este proceso es esencial para ablandar las caraotas antes de cocinarlas.",
+                "Después del remojo, escurre y enjuaga nuevamente las caraotas. Asegúrate de eliminar el agua de remojo.",
+                "En una olla grande, calienta el aceite de cocina a fuego medio. Agrega la cebolla, el pimiento y el ajo picados finamente. Sofríe estas verduras hasta que estén tiernas y fragantes.",
+                "Incorpora las caraotas negras escurridas a la olla y mézclalas con las verduras sofritas. Esto ayudará a que las caraotas absorban los sabores de los condimentos.",
+                "Agrega suficiente agua a la olla para cubrir las caraotas. el comino molido, que aportarán un sabor característico a las caraotas.",
+                "Lleva la mezcla a ebullición y, una vez que hierva, reduce el fuego para que las caraotas cocinen a fuego lento. Cubre la olla y cocina durante aproximadamente 1 a 1.5 horas, o hasta que las caraotas estén tiernas. Asegúrate de revisar periódicamente y agregar agua caliente si es necesario para evitar que las caraotas se sequen.",
+                "Cuando las caraotas estén tiernas, sazona con sal y pimienta al gusto. Cocina durante unos minutos adicionales para que los sabores se mezclen y desarrollen plenamente.",
+                "Sirve las caraotas negras como un delicioso acompañamiento para arroz blanco, carne, arepas, o cualquier otro plato venezolano que desees. Su textura suave y su sabor profundo harán que esta receta se convierta en un elemento imprescindible en tu cocina."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b2da3ebc2db25620eb91",
+                "name": "venezuela",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231578/countrys/opucqv0zhr4yyufzaahc.jpg",
+                "slug": "venezuela"
+            },
+            "duration": 105,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697337778/recipes/xlhoit6vokygl228nhj1.jpg",
+            "createdAt": "2023-10-15T02:42:59.127Z",
+            "updatedAt": "2024-01-14T17:22:30.587Z",
+            "portions": 4,
+            "slug": "caraotas-negras"
+        },
+        {
+            "_id": "652b4bab6753369b80d5f318",
+            "name": "arepa venezolana",
+            "description": "la arepa venezolana es un plato icónico y versátil que ha sido parte fundamental de la dieta venezolana durante siglos. este delicioso manjar se prepara a partir de harina de maíz precocida, que es un ingrediente esencial en la culinaria del país. la versatilidad de las arepas es uno de sus mayores encantos, ya que se pueden rellenar con una amplia variedad de ingredientes, desde quesos y jamón hasta carnes, pollo, aguacate y frijoles.",
+            "ingredients": [
+                "2 tazas de harina de maíz precocida (como Harina PAN)",
+                "1/2 cucharadita de sal",
+                "2 1/2 tazas de agua tibia",
+                "Relleno de tu elección (queso, jamón, carne mechada, pollo, aguacate, frijoles, entre otros)"
+            ],
+            "steps": [
+                "En un tazón grande, mezcla la harina de maíz precocida y la sal.",
+                "Agrega el agua tibia poco a poco mientras mezclas con una cuchara de madera o con las manos. La masa resultante debe ser suave y manejable, no debe estar ni muy seca ni muy húmeda.",
+                "Deja reposar la masa durante 5-10 minutos para que la harina absorba el agua.",
+                "Mientras la masa reposa, precalienta una sartén o parrilla a fuego medio-alto. No es necesario agregar aceite.",
+                "Divide la masa en porciones del tamaño de una pelota de golf y forma cada porción en una bola. Luego, aplasta cada bola entre las palmas de tus manos para formar un disco de aproximadamente 1 cm de grosor. Asegúrate de que los bordes estén uniformes y lisos.",
+                "Cocina las arepas en la sartén precalentada durante unos 4-5 minutos por cada lado o hasta que estén doradas y suene hueco al golpearlas suavemente con los nudillos. Puedes cocinar varias arepas al mismo tiempo si tu sartén es lo suficientemente grande.",
+                "Una vez cocidas, retira las arepas de la sartén y permite que se enfríen un poco antes de cortarlas por la mitad, como si fueran un panecillo.",
+                "Rellena las arepas con los ingredientes de tu elección. Algunos de los rellenos más populares incluyen queso, jamón, carne mechada, pollo, aguacate, frijoles negros o cualquier combinación que prefieras.",
+                "¡Sirve tus arepas rellenas calientes y disfruta!"
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b2da3ebc2db25620eb91",
+                "name": "venezuela",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231578/countrys/opucqv0zhr4yyufzaahc.jpg",
+                "slug": "venezuela"
+            },
+            "duration": 35,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697336234/recipes/y8al7xwiopl0e9cp7zgp.jpg",
+            "createdAt": "2023-10-15T02:17:15.525Z",
+            "updatedAt": "2024-01-14T17:21:56.203Z",
+            "portions": 8,
+            "slug": "arepa-venezolana"
+        },
+        {
+            "_id": "652b472048fdea655e900543",
+            "name": "cachapa venezolana",
+            "description": "la cachapa es un icónico y delicioso plato típico de venezuela que se ha convertido en un auténtico símbolo de la gastronomía de este país sudamericano. este manjar se elabora a base de maíz tierno, que aporta un sabor dulce y una textura suave y agradable a cada bocado. la cachapa se cocina en forma de una especie de panqueque o crepe, que es dorado en el exterior y tierno en el interior, creando una combinación perfecta de sabores y texturas.",
+            "ingredients": [
+                "2 tazas de maíz tierno molido (puedes usar maíz de lata o congelado si no tienes acceso al maíz tierno fresco).",
+                "1/2 taza de leche.",
+                "1 taza de harina de maíz precocida (como Harina PAN).",
+                "1 cucharadita de sal.",
+                "2 cucharadas de mantequilla derretida.",
+                "Aceite o mantequilla para engrasar la sartén.",
+                "1 cucharadita de azúcar (opcional)."
+            ],
+            "steps": [
+                "En un tazón grande, combina el maíz , la leche, la harina de maíz precocida, la sal, el azúcar (si decides usarlo) y la mantequilla derretida. Mezcla bien todos los ingredientes hasta obtener una masa homogénea. La consistencia debe ser similar a la de un pancake batter, por lo que puedes ajustar la cantidad de leche si es necesario.",
+                "Calienta una sartén antiadherente a fuego medio-alto y añade un poco de aceite o mantequilla para engrasarla.",
+                "Vierte una porción de la masa en la sartén caliente y extiende la mezcla con la parte posterior de una cuchara o una espátula, formando un círculo del tamaño deseado. Puedes hacer cachapas pequeñas o grandes, según tus preferencias.",
+                "Cocina la cachapa hasta que comiencen a aparecer burbujas en la superficie y los bordes se doren, aproximadamente 3-4 minutos.",
+                "Gira la cachapa con cuidado y cocina el otro lado durante otros 2-3 minutos, o hasta que esté dorado y bien cocido.",
+                "Repite el proceso con el resto de la masa, engrasando la sartén según sea necesario.",
+                "Sirve las cachapas calientes y puedes acompañarlas con queso blanco, queso de mano, jamón, o cualquier otro relleno de tu elección."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b2da3ebc2db25620eb91",
+                "name": "venezuela",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231578/countrys/opucqv0zhr4yyufzaahc.jpg",
+                "slug": "venezuela"
+            },
+            "duration": 30,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697335071/recipes/sbnminjq7cnh3xzsrmdc.jpg",
+            "createdAt": "2023-10-15T01:57:52.179Z",
+            "updatedAt": "2024-01-14T17:21:17.846Z",
+            "portions": 5,
+            "slug": "cachapa-venezolana"
+        },
+        {
+            "_id": "652b02ae82940cf6cc1fd1e9",
+            "name": "bandeja paisa",
+            "description": "la bandeja paisa es un plato icónico de la región de antioquia en colombia, conocido por su generosidad en porciones y su combinación de ingredientes variados y deliciosos. es una comida que, a menudo, se considera un festín por sí misma debido a la cantidad de alimentos que contiene. \nla bandeja paisa es un plato que satisface a los amantes de la comida abundante y rica en sabores. además, su presentación en un plato grande y generoso lo convierte en una experiencia culinaria única. es un plato emblemático de la comida colombiana y una deliciosa muestra de la tradición gastronómica de antioquia.",
+            "ingredients": [
+                "1 libra (aproximadamente 450 g) de carne molida de res",
+                "aceite de cocina",
+                "1 cebolla, picada",
+                "2 dientes de ajo, picados",
+                "1 tomate, picado",
+                "1 cucharadita de comino en polvo",
+                "Sal y pimienta al gusto",
+                "2 tazas de arroz blanco cocido",
+                "2 tazas de frijoles (pueden ser frijoles rojos o negros)",
+                "2 plátanos maduros, fritos",
+                "2 chorizos antioqueños",
+                "2 huevos fritos",
+                "Aguacate al gusto, en rodajas",
+                "2 lonjas de chicharrón (tocino crujiente)",
+                "Arepa de maíz al gusto (opcional)"
+            ],
+            "steps": [
+                "Prepara el arroz blanco y los frijoles de acuerdo a tus preferencias. Resérvalos.",
+                "Para la carne molida: En una sartén grande, calienta el aceite a fuego medio. Agrega la cebolla y el ajo, y saltea hasta que estén dorados.",
+                "Agrega la carne molida y cocínala hasta que esté bien dorada, desmenuzándola con una cuchara de madera. Luego, agrega el tomate, el comino, sal y pimienta al gusto. Cocina por unos minutos hasta que el tomate se ablande y se mezcle bien con la carne. Reserva.",
+                "Fría los plátanos maduros hasta que estén dorados y crujientes. También puedes freír los huevos y los chorizos en una sartén aparte.",
+                "Monta la bandeja paisa en un plato grande.   coloca en el centro del plato arroz o la carne molida, y los demás ingredientes se disponen alrededor de ella.",
+                "Sirve los plátanos maduros, los huevos fritos, los chorizos, el chicharrón , los frijoles y el aguacate alrededor de la carne molida o de el arroz.",
+                "Si lo deseas, sirve  arepa de maíz en el lado."
+            ],
+            "category": {
+                "_id": "64e3dbf5f87837090882b613",
+                "name": "carne",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031304/categories/m5gcsk5syuvnjsymoowj.jpg",
+                "slug": "carne"
+            },
+            "country": {
+                "_id": "6529b28c3ebc2db25620eb8a",
+                "name": "colombia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231499/countrys/uno5dujn4n9rw0qbojo7.jpg",
+                "slug": "colombia"
+            },
+            "duration": 150,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697318330/recipes/t7i3qd5ubgam0gk6wihz.jpg",
+            "createdAt": "2023-10-14T21:05:50.836Z",
+            "updatedAt": "2024-01-14T17:20:29.899Z",
+            "portions": 2,
+            "slug": "bandeja-paisa"
+        },
+        {
+            "_id": "652abf997ac8ed9d11b362ed",
+            "name": "arepa de queso colombiana",
+            "description": "las arepas de queso colombianas son un auténtico tesoro de la gastronomía de colombia. estas deliciosas tortitas de maíz, mezcladas con queso fresco, son una verdadera delicia que puedes disfrutar en cualquier momento del día. son versátiles, sabrosas y relativamente fáciles de preparar en casa. siga estos pasos para crear tu propio festín de arepas de queso colombianas.",
+            "ingredients": [
+                "2 tazas de harina de maíz pre-cocida (masa de arepa)",
+                "1 taza de queso fresco rallado (puedes usar queso blanco o queso fresco colombiano)",
+                "1 1/2 tazas de agua tibia",
+                "1/2 cucharadita de sal (ajustable según tu preferencia).",
+                "2 cucharadas de mantequilla (opcional, pero agrega un sabor extra y textura)."
+            ],
+            "steps": [
+                "En un tazón grande, comienza combinando la harina de maíz pre-cocida y la sal. Si lo deseas, puedes agregar la mantequilla derretida a esta mezcla para un toque de suavidad y sabor en tus arepas.",
+                "Añade el queso rallado a la mezcla de harina y mézclalo bien. El queso le dará ese maravilloso sabor y textura a tus arepas.",
+                "Agrega el agua tibia gradualmente mientras mezclas todo junto. La masa resultante debe ser suave y homogénea. Asegúrate de que la masa no esté muy líquida; debe ser lo suficientemente firme para que puedas darles forma a las arepas sin que se rompan.",
+                "Divide la masa en porciones del tamaño que desees para tus arepas. Por lo general, se hacen arepas pequeñas, como panecillos.",
+                "Forma bolas con cada porción de masa y aplánalas entre tus manos para darles forma de disco de aproximadamente 1 cm de grosor.",
+                "Calienta una sartén antiadherente a fuego medio-alto y agrega un poco de aceite o mantequilla para evitar que las arepas se peguen.",
+                "Cocina las arepas en la sartén precalentada durante unos 4-5 minutos por cada lado o hasta que estén doradas y crujientes.",
+                "Sirve las arepas calientes. Puedes acompañarlas con más queso fresco, guacamole, o simplemente disfrutarlas solas."
+            ],
+            "category": {
+                "_id": "64e3d80cf87837090882b604",
+                "name": "comida casera",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701032485/categories/vmbzjetdvspmavmpbkvh.webp",
+                "slug": "comida-casera"
+            },
+            "country": {
+                "_id": "6529b28c3ebc2db25620eb8a",
+                "name": "colombia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231499/countrys/uno5dujn4n9rw0qbojo7.jpg",
+                "slug": "colombia"
+            },
+            "duration": 35,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697300377/recipes/ntcfxwxzyj1tm2d8pfny.jpg",
+            "createdAt": "2023-10-14T16:19:37.532Z",
+            "updatedAt": "2024-01-14T17:17:43.149Z",
+            "portions": 7,
+            "slug": "arepa-de-queso-colombiana"
+        },
+        {
+            "_id": "6529f753311a4af3d8762f18",
+            "name": "buñuelos colombianos",
+            "description": "los buñuelos colombianos son bolitas fritas doradas por fuera y esponjosas por dentro, hechas a base de una mezcla de queso fresco, fecula de maiz,almidon de yuca y huevos. son un bocado delicioso y tradicional de la gastronomía colombiana que se disfruta en todo el país, especialmente durante las festividades de navidad y año nuevo. su exterior crujiente y su sabor ligeramente salado hacen de los buñuelos un tentempié irresistible.",
+            "ingredients": [
+                "1 taza de queso costeño (o queso blanco fresco) rallado",
+                "1 taza de almidón de yuca",
+                "1/4 de taza de fécula de maíz (maizena)",
+                "1 cucharadita de polvo de hornear",
+                "1 huevo",
+                "1/4 de cucharadita de sal",
+                "Aceite vegetal para freír"
+            ],
+            "steps": [
+                "En un tazón grande, mezcla el queso costeño rallado, el almidón de yuca, la fécula de maíz, el polvo de hornear y una pizca de sal.",
+                "Agrega el huevo y mezcla bien. Si la masa está demasiado seca, puedes agregar un poco de leche para obtener la consistencia adecuada. Debe ser una masa firme pero maleable.",
+                "Calienta suficiente aceite en una sartén grande a fuego medio-alto. Asegúrate de que el aceite esté bien caliente antes de continuar.",
+                "Con las manos ligeramente engrasadas, forma pequeñas bolas de masa del tamaño de una nuez o según tu preferencia.",
+                "Fría los buñuelos en el aceite caliente hasta que estén dorados y crujientes, aproximadamente de 4 a 6 minutos, dándoles la vuelta ocasionalmente para que se cocinen de manera uniforme.",
+                "Retira los buñuelos del aceite y colócalos sobre papel absorbente para eliminar el exceso de grasa.",
+                "Sirve los buñuelos calientes y disfrútalos."
+            ],
+            "category": {
+                "_id": "64e3d150f87837090882b5f1",
+                "name": "comida rapida",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031859/categories/fzysfmbe9wqkewwmv5mq.jpg",
+                "slug": "comida-rapida"
+            },
+            "country": {
+                "_id": "6529b28c3ebc2db25620eb8a",
+                "name": "colombia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231499/countrys/uno5dujn4n9rw0qbojo7.jpg",
+                "slug": "colombia"
+            },
+            "duration": 30,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697249106/recipes/ini2irb5agthlkzuewtm.jpg",
+            "createdAt": "2023-10-14T02:05:07.096Z",
+            "updatedAt": "2024-01-14T17:15:31.343Z",
+            "portions": 12,
+            "slug": "bunuelos-colombianos"
+        },
+        {
+            "_id": "6529ec7ed374da12a6aee3f5",
+            "name": "empanadas colombianas",
+            "description": "las empanadas colombianas son un exquisito manjar que forma parte del corazón de la gastronomía de colombia. estas empanadas son una verdadera delicia culinaria, con una masa crujiente y dorada que encierra un relleno jugoso y lleno de sabor. su relleno es una mezcla perfecta de carne molida sazonada, papas tiernas, cebolla, ajo, y tomate, todo esto aderezado con especias tradicionales colombianas como el comino y el azafrán. este aperitivo es muy popular en colombia y se puede encontrar en cada esquina, desde puestos de comida callejera hasta restaurantes familiares.",
+            "ingredients": [
+                "2 tazas de harina de maíz precocido",
+                "2 tazas de agua tibia",
+                "1 taza de carne molida (ya sea de res o cerdo)",
+                "1 taza de papa, pelada y cortada en cubos pequeños",
+                "1 cebolla pequeña, finamente picada",
+                "1 tomate maduro, picado en cubos pequeños",
+                "2 dientes de ajo, picados",
+                "1 cucharadita de comino",
+                "1 cucharadita de pimentón en polvo (paprika)",
+                "Aceite vegetal para freír",
+                "Sal y pimienta al gusto"
+            ],
+            "steps": [
+                "Comienza mezclando la harina de maíz con el agua tibia en un tazón grande hasta que obtengas una masa suave y manejable. Deja que la masa repose durante unos minutos para que se asiente.",
+                "En una sartén, calienta un poco de aceite y sofríe la cebolla y el ajo hasta que estén dorados y fragantes",
+                "Agrega la carne molida y cocina hasta que esté completamente cocida y tenga un color dorado.",
+                "Incorpora las papas y el tomate a la mezcla de carne, y luego sazona con comino, pimentón, azafrán, sal y pimienta. Cocina todo junto hasta que las papas estén tiernas y se haya formado un relleno sabroso.",
+                "Toma porciones de la masa de harina de maíz y forma pequeñas bolas. Usa un rodillo para aplanar cada bola en un círculo delgado.",
+                "Coloca una porción del relleno de carne y papa en el centro de cada círculo de masa.",
+                "Doble la masa por la mitad para cubrir el relleno y forma una empanada, sellando los bordes con los dedos o un tenedor.",
+                "Calienta suficiente aceite en una sartén grande y profunda. Cuando esté bien caliente, fríe las empanadas hasta que estén doradas y crujientes, aproximadamente 3-4 minutos por cada lado.",
+                "Retira las empanadas fritas y colócalas sobre papel absorbente para eliminar el exceso de aceite."
+            ],
+            "category": {
+                "_id": "64e3d150f87837090882b5f1",
+                "name": "comida rapida",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1701031859/categories/fzysfmbe9wqkewwmv5mq.jpg",
+                "slug": "comida-rapida"
+            },
+            "country": {
+                "_id": "6529b28c3ebc2db25620eb8a",
+                "name": "colombia",
+                "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697231499/countrys/uno5dujn4n9rw0qbojo7.jpg",
+                "slug": "colombia"
+            },
+            "duration": 45,
+            "image": "https://res.cloudinary.com/dnbdpnvz1/image/upload/v1697246523/recipes/eklpo2mfprwa5wixayht.jpg",
+            "createdAt": "2023-10-14T01:18:54.233Z",
+            "updatedAt": "2024-01-14T17:12:57.916Z",
+            "portions": 6,
+            "slug": "empanadas-colombianas"
+        }
+    ]
+}

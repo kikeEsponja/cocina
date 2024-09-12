@@ -1,0 +1,350 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.custom-dropdown{
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 1%;
+}
+.dropdown-btn{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 10px;
+}
+.menu-lista{
+    display: none;
+    position: absolute;
+    background: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+.menu-lista li{
+    list-style: none;
+    padding: 8px 0;
+}
+.custom-dropdown:hover .menu-lista{
+    display: block;
+    right: 0;
+    font-size: 20px;
+}
+.lang{
+	display: flex;
+}
+.flag{
+	width: 20%;
+}
+.seccion-uno > div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.buscar{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.btn-buscar{
+    background: orange;
+}
+
+/* ---------------------------------------LOADER------------------------------------------------ */
+.fire {
+	position: relative;
+	grid-column: 2 / 3;
+	grid-row: 2 / 3;
+	align-self: end;
+	justify-self: center;
+	width: 200px;
+	height: 200px;
+	background: #880e4f;
+	border-radius: 50%;
+	box-shadow: 0 0 50px 50px #880e4f;
+	animation: background 5s ease infinite;
+}
+.flame {
+	position: absolute;
+	bottom: 70px;
+	width: 50px;
+	height: 50px;
+	background-color: red;
+	border-radius: 0 70%;
+	box-shadow: -10px -10px 0 10px orange, -20px -20px 0 20px yellow;
+	animation: flicker 5s ease infinite;
+}
+.f1 {
+	left: 50px;
+}
+.f3 {
+	transform: rotateZ(45deg);
+	left: 100px;
+	bottom: 100px;
+}
+.f2 {
+	transform: rotateZ(90deg);
+	left: 150px;
+}
+.log {
+	position: absolute;
+	bottom: 15px;
+	left: 50px;
+	width: 200px;
+	height: 50px;
+	background-color: brown;
+	border-radius: 10px;
+}
+.l1 {
+	transform: rotateZ(20deg);
+	box-shadow: 0 0 10px #3e2723;
+}
+.l2 {
+	transform: rotateZ(-20deg);
+	box-shadow: 0 0 10px #3e2723;
+}
+.l3 {
+	transform: rotate3d(1, 1, 1, 40deg);
+}
+.l4 {
+	transform: rotate3d(1, 1, 1, -40deg);
+}
+.spark {
+	width: 5px;
+	height: 5px;
+	background-color: orangered;
+	border-radius: 50%;
+	box-shadow: 0 0 5px 3px orange;
+	position: absolute;
+	top: 150px;
+	left: 150px;
+	opacity: 0;
+}
+.s1 {
+	animation: fadein 5s ease infinite, floatup 5s ease infinite,
+		left 5s ease infinite;
+}
+.s2 {
+	animation: fadein 5s 0.5s ease infinite, floatup 5s 0.5s ease infinite,
+		right 5s 0.5s ease infinite;
+}
+.s3 {
+	animation: fadein 5s 1s ease infinite, floatup 5s 1s ease infinite,
+		farleft 5s 1s ease infinite;
+}
+.s4 {
+	animation: fadein 5s 1.5s ease infinite, floatup 5s 1.5s ease infinite,
+		farright 5s 1.5s ease infinite;
+}
+.s5 {
+	animation: fadein 5s 2s linear infinite, floatup 5s 2s linear infinite;
+}
+.s6 {
+	animation: fadein 5s 2.5s ease infinite, floatup 5s 2.5s ease infinite,
+		left 5s 2.5s ease infinite;
+}
+.s7 {
+	animation: fadein 5s 3s ease infinite, floatup 5s 3s ease infinite,
+		right 5s 3s ease infinite;
+}
+.s8 {
+	animation: fadein 5s 3.5s ease infinite, floatup 5s 3.5s ease infinite,
+		farleft 5s 3.5s ease infinite;
+}
+
+@keyframes flicker {
+	0%,
+	100% {
+		background-color: red;
+		box-shadow: -10px -10px 0 10px orange, -15px -15px 0 15px yellow;
+	}
+	25%,
+	75% {
+		background-color: red;
+		box-shadow: -10px -10px 0 10px orangered, -20px -20px 0 20px yellow;
+	}
+	50% {
+		background-color: red;
+		box-shadow: -10px -10px 0 10px orange, -15px -15px 0 15px yellow;
+	}
+}
+
+@keyframes fadein {
+	0%,
+	100% {
+		opacity: 0;
+	}
+	75% {
+		opacity: 100%;
+	}
+}
+
+@keyframes floatup {
+	0% {
+		top: 150px;
+	}
+	100% {
+		top: -50%;
+	}
+}
+@keyframes left {
+	0% {
+		left: 150px;
+	}
+	100% {
+		left: 100px;
+	}
+}
+@keyframes right {
+	0% {
+		left: 150px;
+	}
+	100% {
+		left: 200px;
+	}
+}
+@keyframes farleft {
+	0% {
+		left: 150px;
+	}
+	100% {
+		left: 0px;
+	}
+}
+@keyframes farright {
+	0% {
+		left: 150px;
+	}
+	100% {
+		left: 300px;
+	}
+}
+@keyframes background {
+	0%,
+	50%,
+	100% {
+		box-shadow: 0 0 50px 50px #880e4f;
+	}
+	25%,
+	75% {
+		box-shadow: 0 0 60px 60px #880e4f;
+	}
+}
+@media screen and (max-width: 600px) and (min-width: 200px){
+    nav{
+        flex-direction: column;
+        height: 250px;
+    }
+    .logoLink{
+        position: relative;
+    }
+}
+/* --------------------------------------------------------------------------------------------- */
+
+h1{
+    font-family: "Lemon", serif;
+}
+.recipe{
+    border: #0f0 2px solid;
+    border-radius: 10px;
+    margin: 1%;
+    text-align: center;
+    width: 220px;
+    background: #fff3f3;
+}
+.recipesContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: url('../src/img/fondo3.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.recipeImg{
+    width: 80%;
+    height: 200px;
+}
+.botones-tlf{
+    display: none;
+}
+@media screen and (max-width: 800px) and (min-width: 200px){
+    .desaparece-tlf{
+        display:none;
+    }
+    .botones-tlf{
+        display:flex;
+        justify-content: flex-end;
+    }
+}
+footer{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+}
+footer > ul{
+    list-style: none;
+}
+.piedepagina{
+	width: 75%;
+	border: 2px solid red;
+	text-align: start;
+}
+.piedepagina-menu{
+	width: 25%;
+	border: 2px solid red;
+}
+.piedepagina-menu > ul{
+	list-style: none;
+}
+/* ------------------------------------ITEM DETAIL------------------------------------------------- */
+.item-detail-titulo{
+    text-align: center;
+}
+.item-detail-img{
+    display: flex;
+    justify-content: center;
+}
+.item-detail-img > img{
+	border-radius: 10px;
+}
+.img-recipe{
+    width: 30%;
+    border: #0f0 2px solid;
+    border-radius: 10px;
+}
+.detalles{
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: space-evenly;
+}
+.detalles > div{
+	background: #fff3f3;
+	display: grid;
+	border: 2px solid #000;
+	border-radius: 10px;
+	width: 400px;
+	justify-items: center;
+	justify-content: center;
+}
+.alineacion{
+    width: 80%;
+}
+.ingredientes{
+	width: 100%;
+
+	display: flex;
+	flex-wrap: wrap;
+}
+.recipe{
+    cursor: pointer;
+}
+/* ------------------------------------------------------------------------------------------------ */

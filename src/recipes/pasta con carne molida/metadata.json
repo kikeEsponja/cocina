@@ -1,0 +1,7 @@
+{
+    "title": "Pasta con carne molida",
+    "ingredientes": "carne molida, pasta",
+    "preparacion": "hacer la pasta y ponerle carne molida previamente preparada por encima.",
+    "dificultad": "Fácil",
+    "cover": "./src/recipes/pasta con carne molida/recipe.jpg"
+  }

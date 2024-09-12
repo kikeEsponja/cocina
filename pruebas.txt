@@ -1,0 +1,33 @@
+function displayRecipeDetails() {
+    const recipe = JSON.parse(localStorage.getItem('recipeDetails'));
+    if (recipe) {
+        const detailsElement = document.getElementById('recipeDetails');
+        detailsElement.innerHTML = 
+        `<div class="aux_detail_container">
+            <div class="itemImgs_Contaiener">
+                <img class="ItemImg" src="${recipe.cover}" alt="Portada del libro">     
+            </div>
+
+            <div class="info_container">
+                <h1 class="infoTitle">${recipe.title}</h1>
+                <div class="btnsDetail_Container">
+                    <a class="btnItemDetail" href="viewer.html?recipe=${encodeURIComponent(recipe.urlpdf)}">Leer libro</a>
+                </div>
+                <div class="cataut_Conatainer">
+                    <div class="categoria_container">
+                        <p class="cattxt">Categoria:</p>
+                        <p class="categoria"> ${recipe.subject}</p>
+                    </div>
+                    <div class="autor_Conatainer">
+                        <p class="autorTxt">Autor:</p>  
+                        <p class="autor">${recipe.author}</p>
+                    </div>
+                </div>
+                <p class="descriptin">${recipe.description}</p>           
+            </div>
+        </div>`;
+            } else {
+                console.error('No recipe details found in localStorage');
+            }
+        }
+        document.addEventListener('DOMContentLoaded', displayRecipeDetails);

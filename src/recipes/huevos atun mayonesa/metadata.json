@@ -1,0 +1,7 @@
+{
+    "title": "huevos rellenos atun mayonesa",
+    "ingredientes": "6 huevos, 3 atun en aceite, 45 ml mayonesa, 20 aceitunas rellenas de anchoa, salsa de tomate",
+    "preparacion": "Lo primero que haremos será cocer los huevos durante diez minutos en agua hirviendo. Transcurrido este tiempo, los sacamos del agua y los introducimos en agua fría. Una vez fríos, los pelamos y cortamos por la mitad a lo largo. Sacamos las yemas y las reservamos para utilizarlas posteriormente para decorar. Cubrimos el fondo de una bandeja o fuente con la salsa de tomates y cogemos un bol, añadimos el atún, la mayonesa y las aceitunas; estas últimas las habremos troceado previamente, reservando unas pocas para decorar. Removemos bien la mezcla ayudándonos de una cuchara, rellenamos con la mezcla los huevos que habíamos colocado en una bandeja, le damos forma y lo adornamos con los restos de aceitunas que habíamos reservado. En la bandeja con salsa de tomate, colocamos los huevos con la mezcla, desmenuzamos las yemas que habíamos reservado y adornamos la bandeja con ellas.",
+    "dificultad": "Fácil",
+    "cover": "./src/recipes/huevos atun mayonesa/recipe.jpg"
+  }

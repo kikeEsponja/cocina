@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="author" content="fortrainevolution.com">
+        <meta name="description" content="recetas de cocina en línea">
+        <link rel="shortcut icon" href="../src/img/logo.png">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster" type="text/css">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Lemon&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./cocinaresmipasion.css" type="text/css">
+        <title>cocinar es mi pasión</title>
+        <style>
+            .bi-list{
+                font-size: 60px;
+            }
+        </style>
+    </head>
+<body class="item-detail">
+    <nav>
+        <a href="/index.html" class="logoLink">
+            <img src="../src/img/logo.png" class="logo">
+        </a>
+
+        <div class="tituloPrincipal">
+            <h1>COCINAR</h1>
+        </div>
+        
+        <div class="custom-dropdown">
+            <button class="dropdown-btn desaparece-tlf bi bi-list">
+                <ul class="menu-lista">
+                    <!--<li>Iniciar sesión</li>
+                    <li>Registro</li>
+                    <li>Mis lecturas</li>-->
+                    <li><a class="nav-link" href="./itemDetailen.html"><img src="../src/img/flag-spain.svg" class="flag"></a></li>
+                    <li><a class="nav-link" href="./itemDetail.html"><img src="../src/img/flag-usa.svg" class="flag"></a></li>
+                    <li>Contacto</li>
+                    <li>Guía de uso</li>
+                    <li>Preguntas frecuentes</li>
+                    <li><a href="./public/terminosCondiciones.html" class="terminosLink">Terminos y condiciones</a></li>
+                    <li><a href="./public/politicas.html" class="terminosLink">Politicas de Privacidad</a></li>
+                </ul>
+            </button>
+        </div>
+
+        <div class="botones-tlf">
+    
+            <div class="tituloPrincipal desaparece-tlf">
+                <h1>COCINAR</h1>
+                <div class="lang">
+                    <!--<a class="nav-link" href="#"><img src="../src/img/flag-spain.svg"></a>
+                    <a class="nav-link" href="../public/indexen.html"><img src="../src/img/flag-usa.svg"></a>-->
+                </div>
+            </div>
+            
+            <div class="custom-dropdown">
+                <button class="dropdown-btn bi bi-list">
+                    <ul class="menu-lista">
+                        <!--<li>Iniciar sesión</li>
+                        <li>Registro</li>
+                        <li>Mis lecturas</li>-->
+                        <li>Contacto</li>
+                        <li>Guía de uso</li>
+                        <li>Preguntas frecuentes</li>
+                        <li><a href="./public/terminosCondiciones.html" class="terminosLink">Terminos y condiciones</a></li>
+                        <li><a href="./public/politicas.html" class="terminosLink">Politicas de Privacidad</a></li>
+                    </ul>
+                </button>
+            </div>
+        </div>
+    </nav>
+    <br>
+    <div id="recipeDetails"></div>
+
+    <footer>
+        <ul>
+            <li>cocinar es mi pasión</li>
+            <li>contacto</li>
+            <li><a href="./public/terminosCondiciones.html" class="terminosLink">Términos y condiciones</a></li>
+            <li><a href="./public/politicas.html" class="terminosLink">Polticas de privacidad</a></li>
+            <button class="btn btn-warning" onclick="goBack()">Volver</button>
+        </ul>
+    </footer>
+
+    <script>
+        function displayRecipeDetails() {
+            // Recupera los detalles de la receta almacenados en localStorage
+            const recipe = JSON.parse(localStorage.getItem('recipeDetails'));
+            if (recipe) {
+                const detailsElement = document.getElementById('recipeDetails');
+        
+                // Dividir la cadena de ingredientes en un array
+                const ingredientesArray = recipe.recipe.label.split(', ');
+                // Generar elementos <li> para cada ingrediente
+                let ingredientesHTML = '<ul>';
+                for (let ingrediente of ingredientesArray) {
+                    ingredientesHTML += `<li>${ingrediente}</li>`;
+                }
+                ingredientesHTML += '</ul>';
+
+                // Actualizar el HTML para incluir la lista de ingredientes
+                detailsElement.innerHTML = 
+                `<div class="contenedor-principal">
+                    <div>
+                        <h1 class="item-detail-titulo">${recipe.recipe.label}</h1>
+                        <div class="item-detail-img">
+                        <img src="${recipe.recipe.ingredients[0]["image"]}" alt="Portada de la receta" class="img-recipe">
+                    </div>
+                    <div class="detalles">
+                        <div class="alineacion">
+                            <h3 class="detalles-h3">Dificultad:</h3>
+                            <p>${recipe.recipe.source}</p>
+                            <p>${recipe.recipe.yield}</p>
+                            <img src="${recipe.recipe.ingredients[0]["image"]}">
+                            <p>${recipe.recipe.healthLabels.join(", ")}</p>
+                        </div>
+                        <div class="alineacion">
+                            <h3 class="detalles-h3">ingredientes: </h3>
+                            <div class="ingredientes">${ingredientesHTML}</div>
+                        </div>
+                        <div class="alineacion">
+                            <h3 class="detalles-h3">Preparación: </h3>
+                            <a href="${recipe.recipe.url}">click aquí</a>
+                        </div>
+                    </div
+                </div>
+            </div>`;
+            } else {
+                // Manejar el caso en que no hay detalles de la receta en localStorage
+                console.error('No recipe details found in localStorage');
+            }
+        }
+        // Llamar a displayRecipeDetails al cargar la página
+        document.addEventListener('DOMContentLoaded', displayRecipeDetails);
+
+    </script>
+    <script src="../routes/funciones.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+</body>
+</html>

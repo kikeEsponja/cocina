@@ -1,0 +1,7 @@
+{
+    "title": "sarten de ensalada griega",
+    "ingredientes": "8 huevos, 1 Cebolleta, 120 g de Tomates cherry, 100 g de Aceitunas negras, 100 g de Queso feta, Aceite de oliva, Sal, Perejil picado",
+    "preparacion": "Esta receta la comenzaremos batiendo los huevos a los que echaremos un poquito de sal y una cucharada de perejil picado. Picamos bien la cebolleta que quede menuda y colocamos al fuego la sartén a la que añadiremos un chorro de aceite de oliva. Sofreímos la cebolleta menuda durante aproximadamente 4 minutos, hasta que ésta se dore, después añadimos los tomates cherry que habremos partido previamente, por la mitad, agregamos las aceitunas negras y lo mantenemos al fuego durante 2 minutos. Cuando los tomates empiecen a quedar blandos, encendemos el grill del horno, bajamos el fuego de la sartén y añadimos los huevos que hemos batido. Los dejamos unos 5 minutos más, hasta que los huevos se cuajen. Vertemos el contenido de la sartén a una bandeja para horno, añadimos en queso feta desmenzado sobre la mezcla y lo metemos al horno donde se gratinará durante 5 minutos, cuando la superficie esté dorada, lo sacamos y espolvoreamos con el perejil fresco.",
+    "dificultad": "Fácil",
+    "cover": "./src/recipes/ensalada griega/recipe.jpg"
+  }

@@ -1,0 +1,7 @@
+{
+    "title": "empanadas",
+    "ingredientes": "jamon y queso, tapas de empanadas",
+    "preparacion": "Destapas las tapas, les pones jamon y queso al gusto, las cierras y las metes al horno.",
+    "dificultad": "Fácil",
+    "cover": "./src/recipes/empanadas de jamon y queso/recipe.jpg"
+  }

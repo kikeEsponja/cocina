@@ -1,0 +1,7 @@
+{
+    "title": "Arroz con pollo",
+    "ingredientes": "1 pollo, 1 taza de arroz, un cuchillo",
+    "preparacion": "Se pica el pollo, le dices a tu mamá que prepare el arroz, a tu papá que prepare el pollo y lo mezclas todo.",
+    "dificultad": "Fácil",
+    "cover": "./src/recipes/arroz con pollo/recipe.jpg"
+  }
